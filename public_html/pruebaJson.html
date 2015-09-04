@@ -1,0 +1,23 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba de lectura de datos en formato JSON</title>
+    <script src="js/libs/jquery-1.9.1.min/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">
+        function lee_json() {
+            $.getJSON("asset/datos.json", function(datos) {
+                alert("Dato: " + datos["dato"]);
+                $.each(datos["primos"], function(idx,primo) {
+                    alert("Numero primo: " + primo);
+                });
+            });
+        }
+    </script>
+</head>
+<body onload="lee_json();">
+</body>
+</html>

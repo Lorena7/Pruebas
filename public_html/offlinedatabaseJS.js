@@ -28,7 +28,7 @@ function initDB(){
     var shortName = 'stuffDB';
     var version = '1.0';
     var displayName = 'MyStuffDB';
-    var maxSize = 65536; // Em bytes
+    var maxSize = 1073741824; // Em bytes
     localDB = window.openDatabase(shortName, version, displayName, maxSize);
 }
 
@@ -175,7 +175,7 @@ function queryAndUpdateOverview(){
         
             transaction.executeSql(query, [], function(transaction, results){
                 for (var i = 0; i < results.rows.length; i++) {
-                
+                 
                     var row = results.rows.item(i);
                     var li = document.createElement("li");
 					li.setAttribute("id", row['id']);

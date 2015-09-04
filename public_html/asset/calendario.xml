@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventos>
+    <evento>
+        <fecha>01/03/2012</fecha>
+        <hora>20:00</hora>
+        <valores>
+            <valor>
+                <anio>2012</anio>
+                <dato>5</dato>
+            </valor>
+            <valor>
+                <anio>4444</anio>
+                <dato>2</dato>
+            </valor>
+        </valores>
+        <comentario>Cine</comentario>
+    </evento>
+    <evento>
+        <fecha>01/17/0002</fecha>
+        <hora>08:00</hora>
+        <valores>
+            <valor>
+                <anio>20999</anio>
+                <dato>322</dato>
+            </valor>
+        </valores>
+        <comentario>Carrera Matutina</comentario>
+    </evento>
+    <evento>
+        <fecha>222222</fecha>
+        <hora>08:00</hora>
+        <comentario>Carrera Matutina</comentario>
+    </evento>
+</eventos>

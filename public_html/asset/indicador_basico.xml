@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<registros>
+<registro>
+<id_ib>1</id_ib> <id_fun>1</id_fun>  <id_fm>637</id_fm> <id_um>1</id_um> <str_nombre_ia>Extensión de zonas intervenidas, mosaico y natural (EIMN)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1</int_codigo_ib>  <str_codigo_ib>Ambie001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>2</id_ib> <id_fun>1</id_fun>  <id_fm>638</id_fm> <id_um>1</id_um> <str_nombre_ia>Número de especies por clase taxonómica (NE)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>2</int_codigo_ib>  <str_codigo_ib>Ambie004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>3</id_ib> <id_fun>1</id_fun>  <id_fm>639</id_fm> <id_um>1</id_um> <str_nombre_ia>Número de géneros por clase taxonómica (NG)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>3</int_codigo_ib>  <str_codigo_ib>Ambie008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>5</id_ib> <id_fun>1</id_fun>  <id_fm>641</id_fm> <id_um></id_um> <str_nombre_ia>Número de especies amenazadas (NEA)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>5</int_codigo_ib>  <str_codigo_ib>Ambie002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>6</id_ib> <id_fun>1</id_fun>  <id_fm>642</id_fm> <id_um></id_um> <str_nombre_ia>Número de géneros amenazados (NGA)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>6</int_codigo_ib>  <str_codigo_ib>Ambie007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>7</id_ib> <id_fun>1</id_fun>  <id_fm>643</id_fm> <id_um></id_um> <str_nombre_ia>Número de familias amenazadas (NFA)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>7</int_codigo_ib>  <str_codigo_ib>Ambie005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>8</id_ib> <id_fun>1</id_fun>  <id_fm>644</id_fm> <id_um></id_um> <str_nombre_ia>Número de especies introducidas (NEI)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>8</int_codigo_ib>  <str_codigo_ib>Ambie003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>9</id_ib> <id_fun>1</id_fun>  <id_fm>645</id_fm> <id_um></id_um> <str_nombre_ia>Uso del suelo (US)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>9</int_codigo_ib>  <str_codigo_ib>Ambie009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>10</id_ib> <id_fun>1</id_fun>  <id_fm>646</id_fm> <id_um></id_um> <str_nombre_ia>Accesibilidad directa (AD)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>10</int_codigo_ib>  <str_codigo_ib>Ambie011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>11</id_ib> <id_fun>1</id_fun>  <id_fm>647</id_fm> <id_um></id_um> <str_nombre_ia>Extensión de áreas protegidas (EAP)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>11</int_codigo_ib>  <str_codigo_ib>Ambie012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>12</id_ib> <id_fun>1</id_fun>  <id_fm>648</id_fm> <id_um></id_um> <str_nombre_ia>Extensión de bosques protectores (EBP)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>12</int_codigo_ib>  <str_codigo_ib>Ambie013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>13</id_ib> <id_fun>1</id_fun>  <id_fm>596</id_fm> <id_um></id_um> <str_nombre_ia>Proyectos comunitarios de crédito (Cajas solidarias y Bancos Comunales)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>13</int_codigo_ib>  <str_codigo_ib>Accio032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>14</id_ib> <id_fun>1</id_fun>  <id_fm>594</id_fm> <id_um></id_um> <str_nombre_ia>Proyectos comunitarios de desarrollo económico</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>14</int_codigo_ib>  <str_codigo_ib>Accio033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>15</id_ib> <id_fun>1</id_fun>  <id_fm>595</id_fm> <id_um></id_um> <str_nombre_ia>Planes de desarrollo local y participación comunitaria</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>15</int_codigo_ib>  <str_codigo_ib>Accio016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>16</id_ib> <id_fun>1</id_fun>  <id_fm>591</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades beneficiarias de los programas sociales</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>16</int_codigo_ib>  <str_codigo_ib>Accio021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>17</id_ib> <id_fun>1</id_fun>  <id_fm>592</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con proyectos comunitarios de desarrollo Social</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>17</int_codigo_ib>  <str_codigo_ib>Accio022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>18</id_ib> <id_fun>1</id_fun>  <id_fm>593</id_fm> <id_um></id_um> <str_nombre_ia>Vías de acceso a las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>18</int_codigo_ib>  <str_codigo_ib>Accio037</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>19</id_ib> <id_fun>1</id_fun>  <id_fm>605</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades donde el cabildo es la máxima autoridad luego de la asamblea</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>19</int_codigo_ib>  <str_codigo_ib>Parti001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>20</id_ib> <id_fun>1</id_fun>  <id_fm>606</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades donde se desconoce sobre los derechos colectivos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>20</int_codigo_ib>  <str_codigo_ib>Parti004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>21</id_ib> <id_fun>1</id_fun>  <id_fm>607</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades donde la sanción significa castigo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>21</int_codigo_ib>  <str_codigo_ib>Parti002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>22</id_ib> <id_fun>1</id_fun>  <id_fm>608</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades donde la sanción significa ritual para curar o corregir</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>22</int_codigo_ib>  <str_codigo_ib>Parti003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>23</id_ib> <id_fun>1</id_fun>  <id_fm>601</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que eligen a sus autoridades mediante asamblea</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>23</int_codigo_ib>  <str_codigo_ib>Parti005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>24</id_ib> <id_fun>1</id_fun>  <id_fm>604</id_fm> <id_um></id_um> <str_nombre_ia>Nivel de confianza de las comunidades en las autoridades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>24</int_codigo_ib>  <str_codigo_ib>Parti006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>25</id_ib> <id_fun>1</id_fun>  <id_fm>602</id_fm> <id_um></id_um> <str_nombre_ia>Participación en las asambleas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>25</int_codigo_ib>  <str_codigo_ib>Parti007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>26</id_ib> <id_fun>1</id_fun>  <id_fm>603</id_fm> <id_um></id_um> <str_nombre_ia>Participación en las mingas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>26</int_codigo_ib>  <str_codigo_ib>Parti008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>27</id_ib> <id_fun>1</id_fun>  <id_fm>599</id_fm> <id_um></id_um> <str_nombre_ia>Venta de productos de las actividades económicas de las familias</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>27</int_codigo_ib>  <str_codigo_ib>Econo029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>28</id_ib> <id_fun>1</id_fun>  <id_fm>600</id_fm> <id_um></id_um> <str_nombre_ia>Actividades económicas de las familias</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>28</int_codigo_ib>  <str_codigo_ib>Econo001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>29</id_ib> <id_fun>1</id_fun>  <id_fm>575</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que demandan nuevas especializaciones en la secundaria</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>29</int_codigo_ib>  <str_codigo_ib>Educa021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>30</id_ib> <id_fun>1</id_fun>  <id_fm>573</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con CECIB que revalorizan la cultura</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>30</int_codigo_ib>  <str_codigo_ib>Educa020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>31</id_ib> <id_fun>1</id_fun>  <id_fm>574</id_fm> <id_um></id_um> <str_nombre_ia>Tipo de plantel que seleccionan los padres para los hijos en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>31</int_codigo_ib>  <str_codigo_ib>Educa081</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>32</id_ib> <id_fun>1</id_fun>  <id_fm>425</id_fm> <id_um></id_um> <str_nombre_ia>Idioma de las comunidades indígenas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>32</int_codigo_ib>  <str_codigo_ib>Pobla010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>33</id_ib> <id_fun>1</id_fun>  <id_fm>597</id_fm> <id_um></id_um> <str_nombre_ia>Migración en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>33</int_codigo_ib>  <str_codigo_ib>Pobla028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>34</id_ib> <id_fun>1</id_fun>  <id_fm>576</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con: curanderos, hierbateros y comadronas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>34</int_codigo_ib>  <str_codigo_ib>Salud033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>35</id_ib> <id_fun>1</id_fun>  <id_fm>577</id_fm> <id_um></id_um> <str_nombre_ia>Atención de curanderos en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>35</int_codigo_ib>  <str_codigo_ib>Salud017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>36</id_ib> <id_fun>1</id_fun>  <id_fm>578</id_fm> <id_um></id_um> <str_nombre_ia>Atención de parteras en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>36</int_codigo_ib>  <str_codigo_ib>Salud018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>37</id_ib> <id_fun>1</id_fun>  <id_fm>550</id_fm> <id_um></id_um> <str_nombre_ia>Cumplimiento de normas de atención prenatal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>37</int_codigo_ib>  <str_codigo_ib>Salud056</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>38</id_ib> <id_fun>1</id_fun>  <id_fm>581</id_fm> <id_um></id_um> <str_nombre_ia>Desnutrición aguda (peso para talla)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>38</int_codigo_ib>  <str_codigo_ib>Salud059</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>39</id_ib> <id_fun>1</id_fun>  <id_fm>542</id_fm> <id_um></id_um> <str_nombre_ia>Esterilización femenina o ligadura</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>39</int_codigo_ib>  <str_codigo_ib>Salud094</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>40</id_ib> <id_fun>1</id_fun>  <id_fm>378</id_fm> <id_um></id_um> <str_nombre_ia>Control de cáncer de mamas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>40</int_codigo_ib>  <str_codigo_ib>Salud049</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>41</id_ib> <id_fun>1</id_fun>  <id_fm>590</id_fm> <id_um></id_um> <str_nombre_ia>Maltrato físico antes de cumplir 15 años</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>41</int_codigo_ib>  <str_codigo_ib>Salud114</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>42</id_ib> <id_fun>1</id_fun>  <id_fm>545</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres alguna vez embarazadas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>42</int_codigo_ib>  <str_codigo_ib>Salud131</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>43</id_ib> <id_fun>1</id_fun>  <id_fm>598</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres casadas o unidas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>43</int_codigo_ib>  <str_codigo_ib>Salud132</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>44</id_ib> <id_fun>1</id_fun>  <id_fm>582</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres con embarazo premarital</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>44</int_codigo_ib>  <str_codigo_ib>Salud133</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>45</id_ib> <id_fun>1</id_fun>  <id_fm>583</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres con experiencia sexual</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>45</int_codigo_ib>  <str_codigo_ib>Salud134</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>46</id_ib> <id_fun>1</id_fun>  <id_fm>584</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres jóvenes con experiencias sexuales premaritales</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>46</int_codigo_ib>  <str_codigo_ib>Salud135</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>47</id_ib> <id_fun>1</id_fun>  <id_fm>585</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres que requieren servicios de planificación familiar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>47</int_codigo_ib>  <str_codigo_ib>Salud136</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>48</id_ib> <id_fun>1</id_fun>  <id_fm>586</id_fm> <id_um></id_um> <str_nombre_ia>Partos vaginales</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>48</int_codigo_ib>  <str_codigo_ib>Salud157</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>49</id_ib> <id_fun>1</id_fun>  <id_fm>551</id_fm> <id_um></id_um> <str_nombre_ia>Percepción del riesgo a infectarse del VIH/SIDA</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>49</int_codigo_ib>  <str_codigo_ib>Salud160</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>50</id_ib> <id_fun>1</id_fun>  <id_fm>541</id_fm> <id_um></id_um> <str_nombre_ia>Examen del VIH/SIDA</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>50</int_codigo_ib>  <str_codigo_ib>Salud095</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>51</id_ib> <id_fun>1</id_fun>  <id_fm>126</id_fm> <id_um></id_um> <str_nombre_ia>Uso de anticonceptivos en la primera experiencia sexual premarital</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>51</int_codigo_ib>  <str_codigo_ib>Salud205</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>52</id_ib> <id_fun>1</id_fun>  <id_fm>591</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres abusadas sexualmente</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>52</int_codigo_ib>  <str_codigo_ib>Salud130</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>53</id_ib> <id_fun>1</id_fun>  <id_fm>579</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con establecimientos de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>53</int_codigo_ib>  <str_codigo_ib>Salud032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>54</id_ib> <id_fun>1</id_fun>  <id_fm>580</id_fm> <id_um></id_um> <str_nombre_ia>Servicios que ofrecen los establecimientos de salud en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>54</int_codigo_ib>  <str_codigo_ib>Salud179</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>55</id_ib> <id_fun>1</id_fun>  <id_fm>619</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que poseen bosques nativos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>55</int_codigo_ib>  <str_codigo_ib>Terri009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>56</id_ib> <id_fun>1</id_fun>  <id_fm>620</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que poseen páramos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>56</int_codigo_ib>  <str_codigo_ib>Terri010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>57</id_ib> <id_fun>1</id_fun>  <id_fm>621</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades según los protagonistas del manejo forestal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>57</int_codigo_ib>  <str_codigo_ib>Terri012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>58</id_ib> <id_fun>1</id_fun>  <id_fm>622</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que enfrentan conflictos por la propiedad de la tierra/territorio</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>58</int_codigo_ib>  <str_codigo_ib>Terri007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>59</id_ib> <id_fun>1</id_fun>  <id_fm>623</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con disponibilidad de agua de riego para los cultivos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>59</int_codigo_ib>  <str_codigo_ib>Terri004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>60</id_ib> <id_fun>1</id_fun>  <id_fm>624</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con disponibilidad de tierras para uso comunitario</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>60</int_codigo_ib>  <str_codigo_ib>Terri005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>61</id_ib> <id_fun>1</id_fun>  <id_fm>625</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con suelos destinados a la producción</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>61</int_codigo_ib>  <str_codigo_ib>Terri006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>62</id_ib> <id_fun>1</id_fun>  <id_fm>609</id_fm> <id_um></id_um> <str_nombre_ia>Proyectos comunitarios de manejo ambiental y conservación de recursos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>62</int_codigo_ib>  <str_codigo_ib>Terri016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>63</id_ib> <id_fun>1</id_fun>  <id_fm>614</id_fm> <id_um></id_um> <str_nombre_ia>Proyectos comunitarios de ordenamiento territorial y beneficiarios</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>63</int_codigo_ib>  <str_codigo_ib>Terri017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>64</id_ib> <id_fun>1</id_fun>  <id_fm>615</id_fm> <id_um></id_um> <str_nombre_ia>Formas de propiedad de la tierra/territorio en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>64</int_codigo_ib>  <str_codigo_ib>Terri013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>65</id_ib> <id_fun>1</id_fun>  <id_fm>616</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que pagaron por la tierra en los procesos de legalización</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>65</int_codigo_ib>  <str_codigo_ib>Terri008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>66</id_ib> <id_fun>1</id_fun>  <id_fm>617</id_fm> <id_um></id_um> <str_nombre_ia>Mecanismos de acceso a la tierra de las familias jóvenes en las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>66</int_codigo_ib>  <str_codigo_ib>Terri015</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>67</id_ib> <id_fun>1</id_fun>  <id_fm>618</id_fm> <id_um></id_um> <str_nombre_ia>Mecanismo legal para el reconocimiento de la tierra / territorio de las comunidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>67</int_codigo_ib>  <str_codigo_ib>Terri014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>68</id_ib> <id_fun>1</id_fun>  <id_fm>610</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades con actividad petrolera cerca de o en sus territorios</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>68</int_codigo_ib>  <str_codigo_ib>Terri003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>69</id_ib> <id_fun>1</id_fun>  <id_fm>611</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades que tienen acuerdos con empresas petroleras</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>69</int_codigo_ib>  <str_codigo_ib>Terri011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>70</id_ib> <id_fun>1</id_fun>  <id_fm>612</id_fm> <id_um></id_um> <str_nombre_ia>Comunidades a las que se les consulta previamente sobre las actividades petroleras</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>70</int_codigo_ib>  <str_codigo_ib>Terri002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>71</id_ib> <id_fun>1</id_fun>  <id_fm>613</id_fm> <id_um></id_um> <str_nombre_ia>Beneficios e impactos en las comunidades que tienen actividad petrolera</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>71</int_codigo_ib>  <str_codigo_ib>Terri001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>72</id_ib> <id_fun>1</id_fun>  <id_fm>501</id_fm> <id_um></id_um> <str_nombre_ia>Programa de Alimentación Escolar - PAE</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>72</int_codigo_ib>  <str_codigo_ib>Accio027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>73</id_ib> <id_fun>1</id_fun>  <id_fm>502</id_fm> <id_um></id_um> <str_nombre_ia>Programa de Infraestructura Educativa - DINSE</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>73</int_codigo_ib>  <str_codigo_ib>Accio029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>74</id_ib> <id_fun>1</id_fun>  <id_fm>707</id_fm> <id_um></id_um> <str_nombre_ia>Textos escolares</str_nombre_ia><txt_descripcion>Niños de 5 a 14 años que asisten a establecimientos fiscales que reciben textos escolares gratuitos. el Ministerio de Educación a partir del año lectivo 2007-2008 gestiona la entrega de textos escolares de calidad a los niños de 1ro. A 10mo. de Educación 疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>74</int_codigo_ib>  <str_codigo_ib>Accio035</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>75</id_ib> <id_fun>1</id_fun>  <id_fm>708</id_fm> <id_um></id_um> <str_nombre_ia>Uniformes escolares</str_nombre_ia><txt_descripcion>Entrega gratuita de uniformes escolares para establecimientos de caracter fiscal y fiscomisional gratiutos, con el objetivo de contribuir a la eliminación de barreras de ingreso al sistema de educación. Proyecto ejecutado por la Coordinación General de Ad疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>75</int_codigo_ib>  <str_codigo_ib>Accio036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>76</id_ib> <id_fun>1</id_fun>  <id_fm>318</id_fm> <id_um></id_um> <str_nombre_ia>Programa Bono de Desarrollo Humano - BDH</str_nombre_ia><txt_descripcion>Son transferencias de recursos a los beneficiarios (madres, personas de tercera edad, discapacitados) a través de la red bancaria nacional. El BDH, es la ayuda monetaria, que el gobierno nacional realiza  a los hogares y personas vulnerables todos los mes疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>76</int_codigo_ib>  <str_codigo_ib>Accio025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>77</id_ib> <id_fun>1</id_fun>  <id_fm>319</id_fm> <id_um></id_um> <str_nombre_ia>Programa Aliméntate Ecuador</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>77</int_codigo_ib>  <str_codigo_ib>Accio023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>78</id_ib> <id_fun>1</id_fun>  <id_fm>321</id_fm> <id_um></id_um> <str_nombre_ia>Crédito de Desarrollo Humano - CDH</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>78</int_codigo_ib>  <str_codigo_ib>Accio005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>79</id_ib> <id_fun>1</id_fun>  <id_fm>320</id_fm> <id_um></id_um> <str_nombre_ia>Programas de Desarrollo Infantil</str_nombre_ia><txt_descripcion>Proveen a niños/as en condiciones de pobreza la oportunidad de recibir cuidado, educación preescolar y alimentación ; y dan a las madres con hijos/as pequeños la oportunidad de trabajar, tanto por la disponibilidad de tiempo cuanto por la posibilidad de i疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>79</int_codigo_ib>  <str_codigo_ib>Accio031</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>80</id_ib> <id_fun>1</id_fun>  <id_fm>316</id_fm> <id_um></id_um> <str_nombre_ia>Hilando el Desarrollo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>80</int_codigo_ib>  <str_codigo_ib>Accio010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>81</id_ib> <id_fun>1</id_fun>  <id_fm>317</id_fm> <id_um></id_um> <str_nombre_ia>Nutriendo el Desarrollo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>81</int_codigo_ib>  <str_codigo_ib>Accio015</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>82</id_ib> <id_fun>1</id_fun>  <id_fm>315</id_fm> <id_um></id_um> <str_nombre_ia>Servicio Ecuatoriano de Capacitación Profesional - SECAP</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>82</int_codigo_ib>  <str_codigo_ib>Accio034</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>83</id_ib> <id_fun>1</id_fun>  <id_fm>311</id_fm> <id_um></id_um> <str_nombre_ia>Programa de Complementación Alimentaria</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>83</int_codigo_ib>  <str_codigo_ib>Accio028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>84</id_ib> <id_fun>1</id_fun>  <id_fm>312</id_fm> <id_um></id_um> <str_nombre_ia>Programa Ampliado de Inmunizaciones - PAI</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>84</int_codigo_ib>  <str_codigo_ib>Accio024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>85</id_ib> <id_fun>1</id_fun>  <id_fm>313</id_fm> <id_um></id_um> <str_nombre_ia>Programa de maternidad gratuita y atención a la infancia - LMGYAI</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>85</int_codigo_ib>  <str_codigo_ib>Accio030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>86</id_ib> <id_fun>1</id_fun>  <id_fm>314</id_fm> <id_um></id_um> <str_nombre_ia>Equipos básicos de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>86</int_codigo_ib>  <str_codigo_ib>Accio008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>87</id_ib> <id_fun>1</id_fun>  <id_fm>322</id_fm> <id_um></id_um> <str_nombre_ia>Programa de agua y saneamiento para comunidades rurales y pequeños municipios (PRAGUAS)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>87</int_codigo_ib>  <str_codigo_ib>Accio026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>88</id_ib> <id_fun>1</id_fun>  <id_fm>323</id_fm> <id_um></id_um> <str_nombre_ia>Bono de la vivienda - Urbana Marginal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>88</int_codigo_ib>  <str_codigo_ib>Accio001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>89</id_ib> <id_fun>1</id_fun>  <id_fm>324</id_fm> <id_um></id_um> <str_nombre_ia>Bono de la vivienda - Vivienda Rural</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>89</int_codigo_ib>  <str_codigo_ib>Accio002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>90</id_ib> <id_fun>1</id_fun>  <id_fm>325</id_fm> <id_um></id_um> <str_nombre_ia>Bono de la vivienda - Vivienda Urbana</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>90</int_codigo_ib>  <str_codigo_ib>Accio003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>91</id_ib> <id_fun>1</id_fun>  <id_fm>285</id_fm> <id_um></id_um> <str_nombre_ia>Dedicación de los niños/as a la televisión</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>91</int_codigo_ib>  <str_codigo_ib>Ciuda004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>92</id_ib> <id_fun>1</id_fun>  <id_fm>286</id_fm> <id_um></id_um> <str_nombre_ia>Participación de los niños/as en organizaciones</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>92</int_codigo_ib>  <str_codigo_ib>Ciuda016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>93</id_ib> <id_fun>1</id_fun>  <id_fm>287</id_fm> <id_um></id_um> <str_nombre_ia>Organización estudiantil</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>93</int_codigo_ib>  <str_codigo_ib>Ciuda015</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>94</id_ib> <id_fun>1</id_fun>  <id_fm>288</id_fm> <id_um></id_um> <str_nombre_ia>Actividad preferida de los niños/as durante el tiempo libre</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>94</int_codigo_ib>  <str_codigo_ib>Ciuda001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>95</id_ib> <id_fun>1</id_fun>  <id_fm>289</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que pasan su tiempo libre en la calle</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>95</int_codigo_ib>  <str_codigo_ib>Ciuda014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>96</id_ib> <id_fun>1</id_fun>  <id_fm>290</id_fm> <id_um></id_um> <str_nombre_ia>Trato de los profesores</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>96</int_codigo_ib>  <str_codigo_ib>Ciuda029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>97</id_ib> <id_fun>1</id_fun>  <id_fm>291</id_fm> <id_um></id_um> <str_nombre_ia>Maltrato físico por los padres</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>97</int_codigo_ib>  <str_codigo_ib>Ciuda008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>98</id_ib> <id_fun>1</id_fun>  <id_fm>292</id_fm> <id_um></id_um> <str_nombre_ia>Legitimidad del castigo físico entre los niños/as</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>98</int_codigo_ib>  <str_codigo_ib>Ciuda006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>99</id_ib> <id_fun>1</id_fun>  <id_fm>293</id_fm> <id_um></id_um> <str_nombre_ia>Conocimiento de los niños/as sobre el abuso sexual</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>99</int_codigo_ib>  <str_codigo_ib>Ciuda002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>100</id_ib> <id_fun>1</id_fun>  <id_fm>294</id_fm> <id_um></id_um> <str_nombre_ia>Conocimiento de sus derechos como niños/as</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>100</int_codigo_ib>  <str_codigo_ib>Ciuda003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>101</id_ib> <id_fun>1</id_fun>  <id_fm>295</id_fm> <id_um></id_um> <str_nombre_ia>Respeto a la opinión de los niños/as en el hogar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>101</int_codigo_ib>  <str_codigo_ib>Ciuda020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>102</id_ib> <id_fun>1</id_fun>  <id_fm>296</id_fm> <id_um></id_um> <str_nombre_ia>Libertad de los niños/as de participar en actos religiosos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>102</int_codigo_ib>  <str_codigo_ib>Ciuda007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>103</id_ib> <id_fun>1</id_fun>  <id_fm>297</id_fm> <id_um></id_um> <str_nombre_ia>Sentido de responsabilidad sobre el trabajo escolar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>103</int_codigo_ib>  <str_codigo_ib>Ciuda021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>104</id_ib> <id_fun>1</id_fun>  <id_fm>298</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que han declarado ante un juez</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>104</int_codigo_ib>  <str_codigo_ib>Ciuda013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>105</id_ib> <id_fun>1</id_fun>  <id_fm>281</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres candidatas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>105</int_codigo_ib>  <str_codigo_ib>Ciuda009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>106</id_ib> <id_fun>1</id_fun>  <id_fm>282</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres candidatas a la Asamblea Nacional</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>106</int_codigo_ib>  <str_codigo_ib>Ciuda010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>107</id_ib> <id_fun>1</id_fun>  <id_fm>283</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres elegidas a diversas dignidades</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>107</int_codigo_ib>  <str_codigo_ib>Ciuda012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>108</id_ib> <id_fun>1</id_fun>  <id_fm>284</id_fm> <id_um></id_um> <str_nombre_ia>Mujeres elegidas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>108</int_codigo_ib>  <str_codigo_ib>Ciuda011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>109</id_ib> <id_fun>1</id_fun>  <id_fm>299</id_fm> <id_um></id_um> <str_nombre_ia>Hogares víctimas de delitos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>109</int_codigo_ib>  <str_codigo_ib>Ciuda005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>110</id_ib> <id_fun>1</id_fun>  <id_fm>300</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de policías por habitantes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>110</int_codigo_ib>  <str_codigo_ib>Ciuda028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>111</id_ib> <id_fun>1</id_fun>  <id_fm>301</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de denuncias de delitos contra la propiedad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>111</int_codigo_ib>  <str_codigo_ib>Ciuda022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>112</id_ib> <id_fun>1</id_fun>  <id_fm>302</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de denuncias de delitos contra las personas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>112</int_codigo_ib>  <str_codigo_ib>Ciuda024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>113</id_ib> <id_fun>1</id_fun>  <id_fm>303</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de denuncias de delitos contra la seguridad pública</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>113</int_codigo_ib>  <str_codigo_ib>Ciuda023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>114</id_ib> <id_fun>1</id_fun>  <id_fm>304</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de detenidos por delitos contra la propiedad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>114</int_codigo_ib>  <str_codigo_ib>Ciuda025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>115</id_ib> <id_fun>1</id_fun>  <id_fm>305</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de detenidos por delitos contra las personas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>115</int_codigo_ib>  <str_codigo_ib>Ciuda027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>116</id_ib> <id_fun>1</id_fun>  <id_fm>306</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de detenidos por delitos contra la seguridad pública</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>116</int_codigo_ib>  <str_codigo_ib>Ciuda026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>117</id_ib> <id_fun>1</id_fun>  <id_fm>307</id_fm> <id_um></id_um> <str_nombre_ia>Relación detenciones y denuncias por delitos contra la propiedad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>117</int_codigo_ib>  <str_codigo_ib>Ciuda017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>118</id_ib> <id_fun>1</id_fun>  <id_fm>308</id_fm> <id_um></id_um> <str_nombre_ia>Relación detenciones y denuncias por delitos contra las personas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>118</int_codigo_ib>  <str_codigo_ib>Ciuda019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>119</id_ib> <id_fun>1</id_fun>  <id_fm>309</id_fm> <id_um></id_um> <str_nombre_ia>Relación detenciones y denuncias por delitos contra la seguridad pública</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>119</int_codigo_ib>  <str_codigo_ib>Ciuda018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>121</id_ib> <id_fun>1</id_fun>  <id_fm>255</id_fm> <id_um></id_um> <str_nombre_ia>Distribución del ingreso según deciles</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>121</int_codigo_ib>  <str_codigo_ib>Desig010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>123</id_ib> <id_fun>1</id_fun>  <id_fm>257</id_fm> <id_um></id_um> <str_nombre_ia>Distribución del consumo según deciles</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>123</int_codigo_ib>  <str_codigo_ib>Desig007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>124</id_ib> <id_fun>1</id_fun>  <id_fm>258</id_fm> <id_um></id_um> <str_nombre_ia>Índice de Desarrollo Relativo a Género (IDG)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>124</int_codigo_ib>  <str_codigo_ib>Desig018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>125</id_ib> <id_fun>1</id_fun>  <id_fm>259</id_fm> <id_um></id_um> <str_nombre_ia>Índice de Potenciación de Género (IPG)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>125</int_codigo_ib>  <str_codigo_ib>Desig020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>126</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Ingreso promedio familiar per capital según deciles</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>126</int_codigo_ib>  <str_codigo_ib>Desig023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>129</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Personas que habitan viviendas con características físicas inadecuadas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>129</int_codigo_ib>  <str_codigo_ib>Desig032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>130</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Personas que habitan viviendas con servicios inadecuados</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>130</int_codigo_ib>  <str_codigo_ib>Desig033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>131</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Personas en hogares con alta dependencia económica</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>131</int_codigo_ib>  <str_codigo_ib>Desig029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>132</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Personas en hogares con niños/as que no asisten a la escuela</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>132</int_codigo_ib>  <str_codigo_ib>Desig031</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>133</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Personas en hogares con hacinamiento crítico</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>133</int_codigo_ib>  <str_codigo_ib>Desig030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>136</id_ib> <id_fun>1</id_fun>  <id_fm>263</id_fm> <id_um></id_um> <str_nombre_ia>Brecha de la pobreza de consumo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>136</int_codigo_ib>  <str_codigo_ib>Desig003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>137</id_ib> <id_fun>1</id_fun>  <id_fm>264</id_fm> <id_um></id_um> <str_nombre_ia>Brecha de la extrema pobreza de consumo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>137</int_codigo_ib>  <str_codigo_ib>Desig002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>138</id_ib> <id_fun>1</id_fun>  <id_fm>265</id_fm> <id_um></id_um> <str_nombre_ia>Severidad de la pobreza de consumo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>138</int_codigo_ib>  <str_codigo_ib>Desig037</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>139</id_ib> <id_fun>1</id_fun>  <id_fm>266</id_fm> <id_um></id_um> <str_nombre_ia>Severidad de la extrema pobreza de consumo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>139</int_codigo_ib>  <str_codigo_ib>Desig036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>140</id_ib> <id_fun>1</id_fun>  <id_fm>267</id_fm> <id_um></id_um> <str_nombre_ia>Líneas de pobreza y extrema pobreza de consumo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>140</int_codigo_ib>  <str_codigo_ib>Desig026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>142</id_ib> <id_fun>1</id_fun>  <id_fm>269</id_fm> <id_um></id_um> <str_nombre_ia>Brecha de la pobreza de ingresos</str_nombre_ia><txt_descripcion>Diferencia agregada entre el ingreso de las personas (u hogares) pobres y el valor de una canasta básica de bienes y servicios (o línea de pobreza). Se define como pobres a aquellas personas que pertenecen a hogares cuyo ingreso per cápita, en un períod疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>142</int_codigo_ib>  <str_codigo_ib>Desig005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>143</id_ib> <id_fun>1</id_fun>  <id_fm>270</id_fm> <id_um></id_um> <str_nombre_ia>Severidad de la pobreza de ingresos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>143</int_codigo_ib>  <str_codigo_ib>Desig039</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>144</id_ib> <id_fun>1</id_fun>  <id_fm>272</id_fm> <id_um></id_um> <str_nombre_ia>Tipología de la pobreza de Katzman</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>144</int_codigo_ib>  <str_codigo_ib>Desig040</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>145</id_ib> <id_fun>1</id_fun>  <id_fm>273</id_fm> <id_um></id_um> <str_nombre_ia>Índice de Sen</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>145</int_codigo_ib>  <str_codigo_ib>Desig021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>146</id_ib> <id_fun>1</id_fun>  <id_fm>274</id_fm> <id_um></id_um> <str_nombre_ia>Ingreso del hogar según deciles</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>146</int_codigo_ib>  <str_codigo_ib>Desig024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>147</id_ib> <id_fun>1</id_fun>  <id_fm>275</id_fm> <id_um></id_um> <str_nombre_ia>Ingreso per cápita del hogar según deciles</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>147</int_codigo_ib>  <str_codigo_ib>Desig025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>148</id_ib> <id_fun>1</id_fun>  <id_fm>276</id_fm> <id_um></id_um> <str_nombre_ia>Miembros del hogar según deciles de ingreso</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>148</int_codigo_ib>  <str_codigo_ib>Desig027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>149</id_ib> <id_fun>1</id_fun>  <id_fm>277</id_fm> <id_um></id_um> <str_nombre_ia>Perceptores de ingresos del hogar según deciles de ingreso</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>149</int_codigo_ib>  <str_codigo_ib>Desig028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>150</id_ib> <id_fun>1</id_fun>  <id_fm>278</id_fm> <id_um></id_um> <str_nombre_ia>Índice de vulnerabilidad social (IVS)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>150</int_codigo_ib>  <str_codigo_ib>Desig022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>151</id_ib> <id_fun>1</id_fun>  <id_fm>279</id_fm> <id_um></id_um> <str_nombre_ia>Índice de desarrollo humano (IDH)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>151</int_codigo_ib>  <str_codigo_ib>Desig017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>152</id_ib> <id_fun>1</id_fun>  <id_fm>280</id_fm> <id_um></id_um> <str_nombre_ia>Índice de pobreza humana (IPH)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>152</int_codigo_ib>  <str_codigo_ib>Desig019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>153</id_ib> <id_fun>1</id_fun>  <id_fm>341</id_fm> <id_um></id_um> <str_nombre_ia>Dinero</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>153</int_codigo_ib>  <str_codigo_ib>Econo005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>154</id_ib> <id_fun>1</id_fun>  <id_fm>341</id_fm> <id_um></id_um> <str_nombre_ia>Tasas de interés domésticas</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>154</int_codigo_ib>  <str_codigo_ib>Econo024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>155</id_ib> <id_fun>1</id_fun>  <id_fm>341</id_fm> <id_um></id_um> <str_nombre_ia>Balanza comercial y saldo en cuenta corriente</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>155</int_codigo_ib>  <str_codigo_ib>Econo003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>156</id_ib> <id_fun>1</id_fun>  <id_fm>341</id_fm> <id_um></id_um> <str_nombre_ia>Apertura de la economía</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>156</int_codigo_ib>  <str_codigo_ib>Econo002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>157</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Reserva monetaria internacional e inversión extranjera directa</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>157</int_codigo_ib>  <str_codigo_ib>Econo017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>158</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Tipo de cambio y devaluación</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>158</int_codigo_ib>  <str_codigo_ib>Econo028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>159</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Exportaciones según lugar de destino</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>159</int_codigo_ib>  <str_codigo_ib>Econo010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>160</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Exportaciones según productos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>160</int_codigo_ib>  <str_codigo_ib>Econo011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>161</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Importaciones según lugar de origen</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>161</int_codigo_ib>  <str_codigo_ib>Econo013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>162</id_ib> <id_fun>1</id_fun>  <id_fm>352</id_fm> <id_um></id_um> <str_nombre_ia>Importaciones según uso o destino económico</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>162</int_codigo_ib>  <str_codigo_ib>Econo014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>163</id_ib> <id_fun>1</id_fun>  <id_fm>343</id_fm> <id_um></id_um> <str_nombre_ia>Saldo final de la deuda externa</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>163</int_codigo_ib>  <str_codigo_ib>Econo019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>164</id_ib> <id_fun>1</id_fun>  <id_fm>344</id_fm> <id_um></id_um> <str_nombre_ia>Servicio total de la deuda externa (pública y privada)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>164</int_codigo_ib>  <str_codigo_ib>Econo022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>165</id_ib> <id_fun>1</id_fun>  <id_fm>345</id_fm> <id_um></id_um> <str_nombre_ia>Servicio de la deuda externa pública</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>165</int_codigo_ib>  <str_codigo_ib>Econo021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>166</id_ib> <id_fun>1</id_fun>  <id_fm>346</id_fm> <id_um></id_um> <str_nombre_ia>Servicio de la deuda externa privada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>166</int_codigo_ib>  <str_codigo_ib>Econo020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>167</id_ib> <id_fun>1</id_fun>  <id_fm>347</id_fm> <id_um></id_um> <str_nombre_ia>Ingresos totales del sector público no financiero</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>167</int_codigo_ib>  <str_codigo_ib>Econo016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>168</id_ib> <id_fun>1</id_fun>  <id_fm>348</id_fm> <id_um></id_um> <str_nombre_ia>Gastos totales del sector público no financiero</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>168</int_codigo_ib>  <str_codigo_ib>Econo012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>169</id_ib> <id_fun>1</id_fun>  <id_fm>349</id_fm> <id_um></id_um> <str_nombre_ia>Resultado global y resultado primario</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>169</int_codigo_ib>  <str_codigo_ib>Econo018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>171</id_ib> <id_fun>1</id_fun>  <id_fm>361</id_fm> <id_um></id_um> <str_nombre_ia>Tamaño de la economía</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>171</int_codigo_ib>  <str_codigo_ib>Econo023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>173</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la economía - Producción</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>173</int_codigo_ib>  <str_codigo_ib>Econo009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>174</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la economía - Demanda</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>174</int_codigo_ib>  <str_codigo_ib>Econo007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>175</id_ib> <id_fun>1</id_fun>  <id_fm>341</id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la economía - Distribución primaria del ingreso (PIB)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>175</int_codigo_ib>  <str_codigo_ib>Econo008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>176</id_ib> <id_fun>1</id_fun>  <id_fm>359</id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la economía - Bienes transables/ no transables</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>176</int_codigo_ib>  <str_codigo_ib>Econo006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>177</id_ib> <id_fun>1</id_fun>  <id_fm>358</id_fm> <id_um></id_um> <str_nombre_ia>Términos de intercambio internacional</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>177</int_codigo_ib>  <str_codigo_ib>Econo027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>178</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Términos de intercambio doméstico</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>178</int_codigo_ib>  <str_codigo_ib>Econo026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>179</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Términos de intercambio bienes transables - No transables</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>179</int_codigo_ib>  <str_codigo_ib>Econo025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>172</id_ib> <id_fun>1</id_fun>  <id_fm>771</id_fm> <id_um></id_um> <str_nombre_ia>Crecimiento económico</str_nombre_ia><txt_descripcion>Representa el aumento en el nivel de producción de bienes y servicios de una economía en un período de tiempo dado. Se calcula mediante la variación porcentual del PIB real.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>172</int_codigo_ib>  <str_codigo_ib>Econo004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>128</id_ib> <id_fun>1</id_fun>  <id_fm>260</id_fm> <id_um></id_um> <str_nombre_ia>Extrema pobreza por necesidades básicas insatisfechas (NBI)</str_nombre_ia><txt_descripcion>Se define como pobres por Necesicades Básicas Insatisfechas (NBI), a aquellas personas que pertenecen a hogares que presentan carencias persistentes en la satisfacción de sus necesidades básicas incluyendo: vivienda, salud, educación y empleo. Se definen 5 características específicas donde se establece a un hogar como pobre si presenta una de ellas, o en situación de extrema pobreza si presenta dos o más de ellas. No existe dato para los años 2006, 2007 porque la encuesta no levantó las preguntas necesarias para replicar el cálculo en estos años.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>128</int_codigo_ib>  <str_codigo_ib>Desig011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>180</id_ib> <id_fun>1</id_fun>  <id_fm>19</id_fm> <id_um></id_um> <str_nombre_ia>Años promedio para culminar la primaria</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>180</int_codigo_ib>  <str_codigo_ib>Educa018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>181</id_ib> <id_fun>1</id_fun>  <id_fm>20</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de supervivencia al sexto de básica (quinto grado)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>181</int_codigo_ib>  <str_codigo_ib>Educa073</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>182</id_ib> <id_fun>1</id_fun>  <id_fm>18</id_fm> <id_um></id_um> <str_nombre_ia>Eficiencia del sistema educativo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>182</int_codigo_ib>  <str_codigo_ib>Educa027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>183</id_ib> <id_fun>1</id_fun>  <id_fm>21</id_fm> <id_um></id_um> <str_nombre_ia>Promoción escolar Sistema Público</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>183</int_codigo_ib>  <str_codigo_ib>Educa064</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>184</id_ib> <id_fun>1</id_fun>  <id_fm>22</id_fm> <id_um></id_um> <str_nombre_ia>Repetición escolar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>184</int_codigo_ib>  <str_codigo_ib>Educa067</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>185</id_ib> <id_fun>1</id_fun>  <id_fm>23</id_fm> <id_um></id_um> <str_nombre_ia>Abandono escolar sistema público</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>185</int_codigo_ib>  <str_codigo_ib>Educa023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>186</id_ib> <id_fun>1</id_fun>  <id_fm>24</id_fm> <id_um></id_um> <str_nombre_ia>Logros educativos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>186</int_codigo_ib>  <str_codigo_ib>Educa046</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>187</id_ib> <id_fun>1</id_fun>  <id_fm>10</id_fm> <id_um></id_um> <str_nombre_ia>Tasa bruta de asistencia</str_nombre_ia><txt_descripcion>Alumnos/as que asisten a establecimientos de enseñanza de un determinado nivel independiente de su edad. Este indicador da cuenta de la expansión de la matrícula en establecimientos de enseñanza en cada uno de los niveles del sistema educativo entre la po疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>187</int_codigo_ib>  <str_codigo_ib>Educa070</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>189</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Razones de no matrícula 6 -11 años</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>190</int_codigo_ib>  <str_codigo_ib>Educa066</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>190</id_ib> <id_fun>1</id_fun>  <id_fm>13</id_fm> <id_um></id_um> <str_nombre_ia>Tiempo para llegar a la escuela</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>191</int_codigo_ib>  <str_codigo_ib>Educa080</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>191</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Transporte a la escuela</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>192</int_codigo_ib>  <str_codigo_ib>Educa084</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>193</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Índice multivariado de diferencias de género en educación (IDEGE)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>194</int_codigo_ib>  <str_codigo_ib>Educa036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>197</id_ib> <id_fun>1</id_fun>  <id_fm>5</id_fm> <id_um></id_um> <str_nombre_ia>Primaria completa</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>198</int_codigo_ib>  <str_codigo_ib>Educa062</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>201</id_ib> <id_fun>1</id_fun>  <id_fm>9</id_fm> <id_um></id_um> <str_nombre_ia>Título universitario</str_nombre_ia><txt_descripcion>Personas de 24 años y más que obtuvieron un título universitario. Uno de los elementos de la eficiencia de un sistema educativo es su capacidad de titulación.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>202</int_codigo_ib>  <str_codigo_ib>Educa083</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>202</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Índice multivariado de educación (IME)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>203</int_codigo_ib>  <str_codigo_ib>Educa037</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>203</id_ib> <id_fun>1</id_fun>  <id_fm>25</id_fm> <id_um></id_um> <str_nombre_ia>Alumnado de Sistema Público</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>204</int_codigo_ib>  <str_codigo_ib>Educa010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>204</id_ib> <id_fun>1</id_fun>  <id_fm>26</id_fm> <id_um></id_um> <str_nombre_ia>Alumnos/as por profesor/a</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>205</int_codigo_ib>  <str_codigo_ib>Educa013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>205</id_ib> <id_fun>1</id_fun>  <id_fm>27</id_fm> <id_um></id_um> <str_nombre_ia>Alumnos/as por plantel</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>206</int_codigo_ib>  <str_codigo_ib>Educa012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>206</id_ib> <id_fun>1</id_fun>  <id_fm>28</id_fm> <id_um></id_um> <str_nombre_ia>Alumnos/as por aula</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>207</int_codigo_ib>  <str_codigo_ib>Educa011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>436</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Embarazos deseados</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>438</int_codigo_ib>  <str_codigo_ib>Sexua006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>207</id_ib> <id_fun>1</id_fun>  <id_fm>29</id_fm> <id_um></id_um> <str_nombre_ia>Establecimientos fiscales unidocentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>208</int_codigo_ib>  <str_codigo_ib>Educa033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>208</id_ib> <id_fun>1</id_fun>  <id_fm>30</id_fm> <id_um></id_um> <str_nombre_ia>Escuelas incompletas (Primaria)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>209</int_codigo_ib>  <str_codigo_ib>Educa030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>209</id_ib> <id_fun>1</id_fun>  <id_fm>503</id_fm> <id_um></id_um> <str_nombre_ia>Desayuno escolar gratuito</str_nombre_ia><txt_descripcion>Se refiere a todos los alumnos/as matriculados en el nivel primario, independientemente del tipo de sostenimiento del plantel (privados, fiscales, fiscomisionales y municipales), que reciben desayuno escolar.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>210</int_codigo_ib>  <str_codigo_ib>Educa022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>210</id_ib> <id_fun>1</id_fun>  <id_fm>31</id_fm> <id_um></id_um> <str_nombre_ia>Nivel de instrucción de los docentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>211</int_codigo_ib>  <str_codigo_ib>Educa058</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>211</id_ib> <id_fun>1</id_fun>  <id_fm>32</id_fm> <id_um></id_um> <str_nombre_ia>Título docente</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>212</int_codigo_ib>  <str_codigo_ib>Educa082</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>212</id_ib> <id_fun>1</id_fun>  <id_fm>33</id_fm> <id_um></id_um> <str_nombre_ia>Experiencia docente</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>213</int_codigo_ib>  <str_codigo_ib>Educa034</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>213</id_ib> <id_fun>1</id_fun>  <id_fm>34</id_fm> <id_um></id_um> <str_nombre_ia>Categoría docente</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>214</int_codigo_ib>  <str_codigo_ib>Educa019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>214</id_ib> <id_fun>1</id_fun>  <id_fm>554</id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la PEA</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>215</int_codigo_ib>  <str_codigo_ib>Emple006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>215</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Estructura de la PEA ocupada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>216</int_codigo_ib>  <str_codigo_ib>Emple008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>216</id_ib> <id_fun>1</id_fun>  <id_fm>162</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de ocupación bruta </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>217</int_codigo_ib>  <str_codigo_ib>Emple046</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>217</id_ib> <id_fun>1</id_fun>  <id_fm>163</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de ocupación global </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>218</int_codigo_ib>  <str_codigo_ib>Emple065</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>218</id_ib> <id_fun>1</id_fun>  <id_fm>164</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de dependencia económica</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>219</int_codigo_ib>  <str_codigo_ib>Emple051</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>220</id_ib> <id_fun>1</id_fun>  <id_fm>166</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo bruta </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>221</int_codigo_ib>  <str_codigo_ib>Emple049</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>221</id_ib> <id_fun>1</id_fun>  <id_fm>168</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo visible en el sector moderno</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>222</int_codigo_ib>  <str_codigo_ib>Emple064</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>222</id_ib> <id_fun>1</id_fun>  <id_fm>169</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo invisible en el sector moderno</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>223</int_codigo_ib>  <str_codigo_ib>Emple062</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>223</id_ib> <id_fun>1</id_fun>  <id_fm>170</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo en el sector moderno</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>224</int_codigo_ib>  <str_codigo_ib>Emple061</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>224</id_ib> <id_fun>1</id_fun>  <id_fm>171</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de desempleo abierto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>225</int_codigo_ib>  <str_codigo_ib>Emple053</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>225</id_ib> <id_fun>1</id_fun>  <id_fm>172</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de desempleo oculto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>226</int_codigo_ib>  <str_codigo_ib>Emple055</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>226</id_ib> <id_fun>1</id_fun>  <id_fm>173</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de ocupados en el sector formal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>227</int_codigo_ib>  <str_codigo_ib>Emple056</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>227</id_ib> <id_fun>1</id_fun>  <id_fm>175</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de ocupados en el servicio doméstico</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>228</int_codigo_ib>  <str_codigo_ib>Emple058</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>229</id_ib> <id_fun>1</id_fun>  <id_fm>177</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo por insuficiencia de horas (visibles)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>230</int_codigo_ib>  <str_codigo_ib>Emple063</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>230</id_ib> <id_fun>1</id_fun>  <id_fm>178</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de otras formas de subempleo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>231</int_codigo_ib>  <str_codigo_ib>Emple060</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>188</id_ib> <id_fun>1</id_fun>  <id_fm>11</id_fm> <id_um></id_um> <str_nombre_ia>Tasa neta de Asistencia</str_nombre_ia><txt_descripcion>DEscripcion tasa neta de asistencia</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>188</int_codigo_ib>  <str_codigo_ib>Educa074</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>232</id_ib> <id_fun>1</id_fun>  <id_fm>174</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de ocupados en el sector informal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>233</int_codigo_ib>  <str_codigo_ib>Emple057</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>235</id_ib> <id_fun>1</id_fun>  <id_fm>148</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de participación laboral bruta </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>236</int_codigo_ib>  <str_codigo_ib>Emple048</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>236</id_ib> <id_fun>1</id_fun>  <id_fm>149</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de participación laboral global </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>237</int_codigo_ib>  <str_codigo_ib>Emple067</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>238</id_ib> <id_fun>1</id_fun>  <id_fm>155</id_fm> <id_um></id_um> <str_nombre_ia>Salario mínimo vital general</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>239</int_codigo_ib>  <str_codigo_ib>Emple045</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>239</id_ib> <id_fun>1</id_fun>  <id_fm>156</id_fm> <id_um></id_um> <str_nombre_ia>Ingreso efectivo mensual</str_nombre_ia><txt_descripcion>Es la suma del salario mínimo vital general más las remuneraciones complementarias establecidas por ley para los trabajadores del sector privado vigentes en un año determinado.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>240</int_codigo_ib>  <str_codigo_ib>Emple013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>240</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Desigualdad de género en el ingreso laboral</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>241</int_codigo_ib>  <str_codigo_ib>Emple003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>241</id_ib> <id_fun>1</id_fun>  <id_fm>158</id_fm> <id_um></id_um> <str_nombre_ia>Ingreso laboral personal promedio</str_nombre_ia><txt_descripcion>Valor promedio del ingreso mensual, de las personas ocupadas,  en todas sus actividades o trabajos remunerados en un determinado año.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>242</int_codigo_ib>  <str_codigo_ib>Emple014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>243</id_ib> <id_fun>1</id_fun>  <id_fm>150</id_fm> <id_um></id_um> <str_nombre_ia>Población cubierta por el seguro social general</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>244</int_codigo_ib>  <str_codigo_ib>Emple041</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>244</id_ib> <id_fun>1</id_fun>  <id_fm>151</id_fm> <id_um></id_um> <str_nombre_ia>Población cubierta por el seguro social campesino</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>245</int_codigo_ib>  <str_codigo_ib>Emple040</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>247</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y no estudian</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>248</int_codigo_ib>  <str_codigo_ib>Emple033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>248</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>No trabajan ni estudian</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>249</int_codigo_ib>  <str_codigo_ib>Emple026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>249</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>No trabajan y sí estudian</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>250</int_codigo_ib>  <str_codigo_ib>Emple027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>250</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y estudian</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>251</int_codigo_ib>  <str_codigo_ib>Emple032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>251</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Edad de inicio del trabajo de niños/as y adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>252</int_codigo_ib>  <str_codigo_ib>Emple005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>252</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que trabajan en la calle</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>253</int_codigo_ib>  <str_codigo_ib>Emple029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>253</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Trabajo con ingreso laboral</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>254</int_codigo_ib>  <str_codigo_ib>Emple023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>254</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Aporte al ingreso del hogar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>255</int_codigo_ib>  <str_codigo_ib>Emple024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>255</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Trabajo por gusto personal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>256</int_codigo_ib>  <str_codigo_ib>Emple031</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>256</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Trabajo sin ingreso laboral</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>257</int_codigo_ib>  <str_codigo_ib>Emple034</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>257</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Días que trabajan los niños/as a la semana</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>258</int_codigo_ib>  <str_codigo_ib>Emple004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>258</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Horas que trabajan los niños/as al día</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>259</int_codigo_ib>  <str_codigo_ib>Emple011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>259</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as expuestos a riesgos de salud en el trabajo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>260</int_codigo_ib>  <str_codigo_ib>Emple021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>260</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que no utilizan equipos de protección en el trabajo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>261</int_codigo_ib>  <str_codigo_ib>Emple028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>261</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as obligados a trabajar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>262</int_codigo_ib>  <str_codigo_ib>Emple022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>262</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Horas a la semana que los niños/as trabajadores dedican a las tareas del hogar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>263</int_codigo_ib>  <str_codigo_ib>Emple009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>263</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as trabajadores que en su tiempo libre juegan</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>264</int_codigo_ib>  <str_codigo_ib>Emple036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>264</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as trabajadores que en su tiempo libre hacen deporte</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>265</int_codigo_ib>  <str_codigo_ib>Emple035</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>265</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que entregan una parte o todo su salario al hogar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>266</int_codigo_ib>  <str_codigo_ib>Emple025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>266</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as que trabajan para ayudar al ingreso familiar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>267</int_codigo_ib>  <str_codigo_ib>Emple030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>267</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) como: % del Presupuesto General del estado y % del Presupuesto del Sector Social</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>268</int_codigo_ib>  <str_codigo_ib>Inver018</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>268</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) como % del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>269</int_codigo_ib>  <str_codigo_ib>Inver017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>269</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) por Naturaleza del Gasto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>270</int_codigo_ib>  <str_codigo_ib>Inver020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>270</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>271</int_codigo_ib>  <str_codigo_ib>Inver021</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>271</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) per cápita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>272</int_codigo_ib>  <str_codigo_ib>Inver003</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>272</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Educación (devengado) por Fuente de Financiamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>273</int_codigo_ib>  <str_codigo_ib>Inver019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>273</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto General del Estado a nivel sectorial en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>274</int_codigo_ib>  <str_codigo_ib>Inver011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>274</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto General del Estado en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>275</int_codigo_ib>  <str_codigo_ib>Inver010</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>275</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto General del Estado a nivel sectorial (devengado) como % del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>276</int_codigo_ib>  <str_codigo_ib>Inver008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>276</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto General del Estado a nivel sectorial (devengado) Per cápita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>277</int_codigo_ib>  <str_codigo_ib>Inver009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>277</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) como: % del Presupuesto General del estado y % del Presupuesto del Sector Social</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>278</int_codigo_ib>  <str_codigo_ib>Inver022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>278</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) como % del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>279</int_codigo_ib>  <str_codigo_ib>Inver026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>279</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) por Naturaleza del Gasto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>280</int_codigo_ib>  <str_codigo_ib>Inver024</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>280</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>281</int_codigo_ib>  <str_codigo_ib>Inver025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>281</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) per cápita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>282</int_codigo_ib>  <str_codigo_ib>Inver004</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>282</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Inclusión Social (devengado) por Fuente de Financiamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>283</int_codigo_ib>  <str_codigo_ib>Inver023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>283</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector relaciones laborales, como porcentaje del Presupuesto General del Estado (PGE) y porcentaje del Presupuesto del Sector Social (devengados)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>284</int_codigo_ib>  <str_codigo_ib>Inver028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>284</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector relaciones laborales (devengado), como porcentaje del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>285</int_codigo_ib>  <str_codigo_ib>Inver027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>285</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector relaciones laborales, desglosado por tipo de gasto (partidas corrientes y de inversión)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>286</int_codigo_ib>  <str_codigo_ib>Inver030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>286</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector relaciones laborales, en millones de dólares EEUU</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>287</int_codigo_ib>  <str_codigo_ib>Inver031</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>287</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto del Sector relaciones laborales (devengado), per capita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>288</int_codigo_ib>  <str_codigo_ib>Inver005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>288</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector relaciones laborales, desglosado por Fuente de Financiamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>289</int_codigo_ib>  <str_codigo_ib>Inver029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>289</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) como: % del Presupuesto General del estado y % del Presupuesto del Sector Social</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>290</int_codigo_ib>  <str_codigo_ib>Inver033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>290</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) como % del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>291</int_codigo_ib>  <str_codigo_ib>Inver032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>291</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) por Naturaleza del Gasto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>292</int_codigo_ib>  <str_codigo_ib>Inver035</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>292</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>293</int_codigo_ib>  <str_codigo_ib>Inver036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>293</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) per cápita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>294</int_codigo_ib>  <str_codigo_ib>Inver006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>294</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Salud (devengado) por Fuente de Financiamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>295</int_codigo_ib>  <str_codigo_ib>Inver034</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>295</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Composición del Presupuesto del Sector Social (devengado)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>296</int_codigo_ib>  <str_codigo_ib>Inver001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>296</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector Social (devengado) por Naturaleza del Gasto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>297</int_codigo_ib>  <str_codigo_ib>Inver039</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>297</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector Social (devengado) en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>298</int_codigo_ib>  <str_codigo_ib>Inver040</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>298</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector Social (devengado) como % del Presupuesto General del estado</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>299</int_codigo_ib>  <str_codigo_ib>Inver038</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>301</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) como: % del Presupuesto General del estado y % del Presupuesto del Sector Social</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>302</int_codigo_ib>  <str_codigo_ib>Inver013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>302</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) por Naturaleza del Gasto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>303</int_codigo_ib>  <str_codigo_ib>Inver015</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>303</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) como % del PIB</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>304</int_codigo_ib>  <str_codigo_ib>Inver012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>304</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) en millones de dólares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>305</int_codigo_ib>  <str_codigo_ib>Inver016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>305</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) per cápita</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>306</int_codigo_ib>  <str_codigo_ib>Inver002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>306</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sectorial Vivienda (devengado) por Fuente de Financiamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>307</int_codigo_ib>  <str_codigo_ib>Inver014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>308</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Proyecciones de población</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>309</int_codigo_ib>  <str_codigo_ib>Pobla046</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>310</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Pirámides de población</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>311</int_codigo_ib>  <str_codigo_ib>Pobla036</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>312</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Proporción de mujeres</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>313</int_codigo_ib>  <str_codigo_ib>Pobla044</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>315</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tasa de natalidad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>316</int_codigo_ib>  <str_codigo_ib>Pobla051</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>317</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Emigración por trabajo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>318</int_codigo_ib>  <str_codigo_ib>Pobla005</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>318</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Hijos/as de migrantes al extranjero</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>319</int_codigo_ib>  <str_codigo_ib>Pobla009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>321</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Estructura de los hogares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>322</int_codigo_ib>  <str_codigo_ib>Pobla008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>322</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Población que no buscó atención de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>323</int_codigo_ib>  <str_codigo_ib>Salud167</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>323</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tiempo a los establecimientos de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>324</int_codigo_ib>  <str_codigo_ib>Salud199</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>324</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tiempo de espera para la atención en establecimientos de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>325</int_codigo_ib>  <str_codigo_ib>Salud200</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>325</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Lugar de atención de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>326</int_codigo_ib>  <str_codigo_ib>Salud112</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>326</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Barreras para acceder a servicios de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>327</int_codigo_ib>  <str_codigo_ib>Salud022</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>328</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Población afiliada según institución aseguradora</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>329</int_codigo_ib>  <str_codigo_ib>Salud164</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>520</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Miembros de las Juntas Parroquiales electos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>523</int_codigo_ib>  <str_codigo_ib>Parti016</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>320</id_ib> <id_fun>1</id_fun>  <id_fm>777</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de divorcios</str_nombre_ia><txt_descripcion>Es la disolución legal del vínculo del matrimonio, en el Ecuador es frecuente que las parejas se separen pero no efectúen la separación legal o bien se demoren largo tiempo en hacerlo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>321</int_codigo_ib>  <str_codigo_ib>Pobla049</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>299</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector Social (devengado) como % del PIB</str_nombre_ia><txt_descripcion>Es el monto de recursos destinados a generar un impacto positivo en algún problema social o a mejorar la calidad de los servicios sociales realizado por los distintos sectores institucionales de una sociedad o economía. La inversión social abarca los sectoriales: educación, salud, vivienda, protección social, ambiente y el funcional de actividades recreaticas, cultura y religión. Este indicador se lo expresa como la proporción que representa, o la magnitud que representa, respecto a la Producción nacional (PIB).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>300</int_codigo_ib>  <str_codigo_ib>Inver037</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>300</id_ib> <id_fun>1</id_fun>  <id_fm>310</id_fm> <id_um></id_um> <str_nombre_ia>Presupuesto Sector Social (devengado) per cápita</str_nombre_ia><txt_descripcion>Es el monto de recursos destinados a generar un impacto positivo en algún problema social o a mejorar la calidad de los servicios sociales realizado por los distintos sectores institucionales de una sociedad o economía. La inversión social abarca los sectoriales: educación, salud, vivienda, protección social, ambiente y el funcional de actividades recreaticas, cultura y religión. Este indicador se lo expresa en dólares per cápita, o lo que significa la inversión del estado por cada habitante en el gásto social. Este indicador se refiere a los valores corrientes o nominales.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>301</int_codigo_ib>  <str_codigo_ib>Inver007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>309</id_ib> <id_fun>1</id_fun>  <id_fm>331</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de crecimiento poblacional</str_nombre_ia><txt_descripcion>Aumento (o disminución) de la población en un determinado período debido al aumento natural y a la migración neta.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>310</int_codigo_ib>  <str_codigo_ib>Pobla047</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>331</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años amamantados 6 meses o más</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>332</int_codigo_ib>  <str_codigo_ib>Salud142</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>332</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años nunca amamantados</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>333</int_codigo_ib>  <str_codigo_ib>Salud144</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>333</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años que reciben complemento alimenticio gratuito</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>334</int_codigo_ib>  <str_codigo_ib>Salud145</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>334</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Población con discapacidad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>335</int_codigo_ib>  <str_codigo_ib>Salud165</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>335</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Comités de Usuarias de la LMGYAI (CUS)</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>336</int_codigo_ib>  <str_codigo_ib>Salud031</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>336</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Cantones descentralizados en salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>337</int_codigo_ib>  <str_codigo_ib>Salud025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>337</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Consultas de morbilidad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>339</int_codigo_ib>  <str_codigo_ib>Salud040</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>338</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Egresos hospitalarios del MSP</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>340</int_codigo_ib>  <str_codigo_ib>Salud085</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>339</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Ocupación de camas</str_nombre_ia><txt_descripcion>Camas hospitalarias ocupadas en un determinado período en los establecimientos con internación, públicos y privados. La frecuencia de ocupación o uso de camas es una forma de medir el rendimiento o eficiencia de una institución de salud.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>341</int_codigo_ib>  <str_codigo_ib>Salud149</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>340</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Ocupación de camas en establecimientos del MSP</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>342</int_codigo_ib>  <str_codigo_ib>Salud150</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>342</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Establecimientos de salud con internación</str_nombre_ia><txt_descripcion>Establecimientos que tienen capacidad para la internación de pacientes existentes en un determinado año, según tipo de administración (pública o privada). En ambos casos, se refiere a los establecimientos que disponen de camas hospitalarias.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>344</int_codigo_ib>  <str_codigo_ib>Salud091</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>343</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Establecimientos de salud sin internación</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>345</int_codigo_ib>  <str_codigo_ib>Salud093</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>344</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Establecimientos de salud con y sin internación por sector y entidad</str_nombre_ia><txt_descripcion>Establecimientos que tienen capacidad para la internación de pacientes existentes en un determinado año, según tipo de administración (pública o privada).
+En ambos casos, se refiere a los establecimientos que disponen de camas hospitalarias.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>346</int_codigo_ib>  <str_codigo_ib>Salud092</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>346</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Personal en establecimientos de salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>348</int_codigo_ib>  <str_codigo_ib>Salud161</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>347</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Médicos que trabajan en establecimientos de salud por tiempo de trabajo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>349</int_codigo_ib>  <str_codigo_ib>Salud115</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>348</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Índice de oferta en salud</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>350</int_codigo_ib>  <str_codigo_ib>Salud106</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>349</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Accidentes y defunciones</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>351</int_codigo_ib>  <str_codigo_ib>Salud008</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>350</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Accidentes de trabajo</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>352</int_codigo_ib>  <str_codigo_ib>Salud007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>351</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de morbilidad hospitalaria en adultos mayores</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>353</int_codigo_ib>  <str_codigo_ib>Salud065</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>352</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de mortalidad en adultos mayores</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>354</int_codigo_ib>  <str_codigo_ib>Salud068</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>354</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de muerte neonatal</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>356</int_codigo_ib>  <str_codigo_ib>Salud074</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>355</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de muerte en la niñez</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>357</int_codigo_ib>  <str_codigo_ib>Salud072</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>356</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Causas de muerte</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>358</int_codigo_ib>  <str_codigo_ib>Salud027</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>359</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de muerte infantil</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>361</int_codigo_ib>  <str_codigo_ib>Salud073</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>360</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de morbilidad hospitalaria en la niñez</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>362</int_codigo_ib>  <str_codigo_ib>Salud067</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>362</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tétanos neonatal</str_nombre_ia><txt_descripcion>Casos de tétanos neonatal diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. La enfermedad se produce por la introducción de las esporas tecnicas a través del cordón umbilical dura疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>364</int_codigo_ib>  <str_codigo_ib>Salud198</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>363</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diarrea en niños/as menores de 5 años</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>365</int_codigo_ib>  <str_codigo_ib>Salud063</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>364</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diarrea en niños/as menores de 5 años tratada con SRO</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>366</int_codigo_ib>  <str_codigo_ib>Salud064</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>365</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>IRA en niños/as menores de 5 años</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>367</int_codigo_ib>  <str_codigo_ib>Salud109</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>361</id_ib> <id_fun>1</id_fun>  <id_fm>87</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de mortalidad en la niñez</str_nombre_ia><txt_descripcion>Probabilidad que tiene un niño/a de morir antes de cumplir 5 años de vida. Se mide como el número de niños/as de 0 a 59 meses cumplidos fallecidos en un determinado año, expresado con relación a cada 1.000 niños/as nacidos vivos durante ese año.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>363</int_codigo_ib>  <str_codigo_ib>Salud181</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>368</id_ib> <id_fun>1</id_fun>  <id_fm>94</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as inmunizados contra la poliomielitis (OVP)</str_nombre_ia><txt_descripcion>Niños/as que recibieron la vacuna contra la poliomielitis. La poliomielitis es una enfermedad infecciosa viral del sistema nervioso central que frecuentemente provoca, como secuela, una parlisis.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>370</int_codigo_ib>  <str_codigo_ib>Salud140</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>369</id_ib> <id_fun>1</id_fun>  <id_fm>95</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as inmunizados con DPT</str_nombre_ia><txt_descripcion>Niños/as menore de 1 año que recibieron tres dosis de la vacuna contra: difteria, pertusis (tosferina) y tétanos -DPT-. Se administra en tres dosis inyectables, una cada dos meses, a partir del segundo mes de vida del niño/a.  </txt_descripcion> <str_formula></str_formula> <int_codigo_ib>371</int_codigo_ib>  <str_codigo_ib>Salud138</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>345</id_ib> <id_fun>1</id_fun>  <id_fm>107</id_fm> <id_um></id_um> <str_nombre_ia>Camas en establecimientos de salud</str_nombre_ia><txt_descripcion>Camas hospitalarias disponibles en un determinado año en los establecimientos de salud, públicos y privados. Las camas hospitalarias son aquellas dedicadas a los pacientes que deben someterse a diagnóstico o tratamiento hospitalario sea de tipo clínico, quirúrgico u obstétrico.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>347</int_codigo_ib>  <str_codigo_ib>Salud023</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>329</id_ib> <id_fun>1</id_fun>  <id_fm>39</id_fm> <id_um></id_um> <str_nombre_ia>Desnutrición crónica</str_nombre_ia><txt_descripcion>Niños/as menores de 5 años que presentan un retraso en el crecimiento (talla para la edad inferior a dos desviaciones estándar de los Patrones de Crecimiento Infantil de la OMS mediana).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>330</int_codigo_ib>  <str_codigo_ib>Salud060</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>330</id_ib> <id_fun>1</id_fun>  <id_fm>40</id_fm> <id_um></id_um> <str_nombre_ia>Desnutrición global</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>331</int_codigo_ib>  <str_codigo_ib>Salud061</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>357</id_ib> <id_fun>1</id_fun>  <id_fm>797</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de mortalidad infantil (método directo)</str_nombre_ia><txt_descripcion>Probabilidad que tiene un niño/a de morir durante su primer año de vida. Se mide como el número de defunciones de niños/as menores de un año en un determinado año, expresado con relación a cada 1.000 nacidos vivos durante el mismo año.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>359</int_codigo_ib>  <str_codigo_ib>Salud185</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>353</id_ib> <id_fun>1</id_fun>  <id_fm>80</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de mortalidad neonatal</str_nombre_ia><txt_descripcion>Probabilidad que tiene un niño/a de morir durante los primeros 28 días luego de su nacimiento. Incluye las muertes ocurridas en la crítica primera semana de vida o período perinatal. Refleja varias situaciones de salud ligadas con la madre y su atención疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>355</int_codigo_ib>  <str_codigo_ib>Salud192</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>371</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Cobertura de inmunización infantil</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>373</int_codigo_ib>  <str_codigo_ib>Salud029</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>372</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Embarazadas vacunadas contra el tétanos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>374</int_codigo_ib>  <str_codigo_ib>Salud086</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>374</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años con carnet de salud infantil</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>376</int_codigo_ib>  <str_codigo_ib>Salud143</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>375</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años al cuidado del padre o la madre</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>377</int_codigo_ib>  <str_codigo_ib>Salud141</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>377</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Atención odontológica a los niños/as</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>379</int_codigo_ib>  <str_codigo_ib>Salud020</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>378</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Esperanza de vida al nacer</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>380</int_codigo_ib>  <str_codigo_ib>Salud090</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>380</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de muerte</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>382</int_codigo_ib>  <str_codigo_ib>Salud070</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>382</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Muertes por enfermedades no transmisibles</str_nombre_ia><txt_descripcion>Muertes de personas de todas las edades registradas en un determinado año imputadas a enfermedades crónico-degenerativas.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>384</int_codigo_ib>  <str_codigo_ib>Salud128</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>383</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Muertes por accidentes y violencia</str_nombre_ia><txt_descripcion>Muertes de personas de todas las edades registradas en un determinado año a causa de cualquier tipo de accidente, motín o violencia colectiva, guerra o acciones políticas, suicidio, homicidio, drogadicción y alcoholismo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>385</int_codigo_ib>  <str_codigo_ib>Salud125</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>385</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Personas que han sentido algún síntoma o malestar por enfermedad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>387</int_codigo_ib>  <str_codigo_ib>Salud162</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>386</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Población que se automedicó por enfermedad presentada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>388</int_codigo_ib>  <str_codigo_ib>Salud168</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>387</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Horas de sueño</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>389</int_codigo_ib>  <str_codigo_ib>Salud102</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>388</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Práctica de deportes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>390</int_codigo_ib>  <str_codigo_ib>Salud170</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>389</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Consumo de alcohol</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>391</int_codigo_ib>  <str_codigo_ib>Salud041</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>390</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Consumo de tabaco</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>392</int_codigo_ib>  <str_codigo_ib>Salud046</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>392</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Dengue</str_nombre_ia><txt_descripcion>Casos de dengue clásico diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. La limitada atención a esta enfermedad se debe a que la infección puede cursar sin síntomas o como un red疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>394</int_codigo_ib>  <str_codigo_ib>Salud058</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>394</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Cólera</str_nombre_ia><txt_descripcion>Casos de cólera diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. El cólera es una enfermedad bacteriana intestinal aguda provocada por el vibrio cholerae. Se caracteriza por su c疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>396</int_codigo_ib>  <str_codigo_ib>Salud030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>437</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Mujeres que no desean más hijos/as</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>439</int_codigo_ib>  <str_codigo_ib>Sexua028</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>438</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Lugar de asistencia al parto</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>440</int_codigo_ib>  <str_codigo_ib>Salud111</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>395</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Difteria</str_nombre_ia><txt_descripcion>Casos de difteria diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Esta enfermedad bacteriana aguda afecta a las amgídalas, faringe, laringe, nariz y, a veces, a otras membranas 疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>397</int_codigo_ib>  <str_codigo_ib>Salud075</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>396</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Rabia humana</str_nombre_ia><txt_descripcion>Casos de rabia humana diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Se trata de una enfermedad mortal que es transmitida a los humanos por animales infectados, sobre todo anim疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>398</int_codigo_ib>  <str_codigo_ib>Salud175</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>397</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Sarampión y rubéola</str_nombre_ia><txt_descripcion>Casos de sarampión y rubéola diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Se trata de una enfermedad viral aguda sumamente contagiosa. Es grave en los lactantes y en los adul疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>399</int_codigo_ib>  <str_codigo_ib>Salud177</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>399</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Hipertensión arterial</str_nombre_ia><txt_descripcion>Casos de hipertensión arterial diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Mide la incidencia de una enfermedad asociada directamente con los estilos y condiciones de vida d疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>401</int_codigo_ib>  <str_codigo_ib>Salud101</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>400</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diabetes</str_nombre_ia><txt_descripcion>Casos de diabetes diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. La diabetes es una de las enfermedades crónicas más agresivas, se encuentra entre las 10 primeras causas de mor疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>402</int_codigo_ib>  <str_codigo_ib>Salud062</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>401</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Alcoholismo</str_nombre_ia><txt_descripcion>Número de casos de alcoholismo diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>403</int_codigo_ib>  <str_codigo_ib>Salud012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>402</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Victimas de violencia y maltrato</str_nombre_ia><txt_descripcion>Casos de violencia y maltrato diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Mide la incidencia de la violencia como una causa directa de problemas de salud. a comienzos del mi疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>404</int_codigo_ib>  <str_codigo_ib>Salud210</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>521</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Jóvenes en hogares</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>524</int_codigo_ib>  <str_codigo_ib>Pobla017</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>522</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Estado civil de la población juvenil</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>525</int_codigo_ib>  <str_codigo_ib>Pobla007</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>523</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Madres </str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>526</int_codigo_ib>  <str_codigo_ib>Pobla025</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>370</id_ib> <id_fun>1</id_fun>  <id_fm>96</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as inmunizados contra el SRP</str_nombre_ia><txt_descripcion>Niños/as de 12 a 13 meses que recibieron la vacuna contra el SRP: sarampión, rubola y paperas.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>372</int_codigo_ib>  <str_codigo_ib>Salud139</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>376</id_ib> <id_fun>1</id_fun>  <id_fm>101</id_fm> <id_um></id_um> <str_nombre_ia>Niños/as menores de 5 años en centros de cuidado diario</str_nombre_ia><txt_descripcion>Niños/as menores de 5 años al cuidado de guarderías o casas cuna durante las horas laborables.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>378</int_codigo_ib>  <str_codigo_ib>Salud300</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>379</id_ib> <id_fun>1</id_fun>  <id_fm>796</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de mortalidad general</str_nombre_ia><txt_descripcion>Personas que murieron en un determinado año. El número de muertes anuales en una población es una forma de reflejar la salud de una población. Nos permite observar cómo han mejorado las condiciones de vida de una población en el tiempo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>381</int_codigo_ib>  <str_codigo_ib>Salud182</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>391</id_ib> <id_fun>1</id_fun>  <id_fm>59</id_fm> <id_um></id_um> <str_nombre_ia>VIH/SIDA</str_nombre_ia><txt_descripcion>Casos de sida diagnosticados y reportados, y personas portadoras de VIH en un determinado ao al sistema de registro de enfermedades de notificación obligatoria del MSP. El Virus de Inmunodeficiencia Humana (VIH) es el agente causal del sida. Ataca a las c疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>393</int_codigo_ib>  <str_codigo_ib>Salud211</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>398</id_ib> <id_fun>1</id_fun>  <id_fm>67</id_fm> <id_um></id_um> <str_nombre_ia>Prevalencia de tuberculosis</str_nombre_ia><txt_descripcion>Casos de tuberculosis diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. mide la incidencia de una enfermedad asociada directamente con las condiciones de vida de la población. Las疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>400</int_codigo_ib>  <str_codigo_ib>Salud171</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>393</id_ib> <id_fun>1</id_fun>  <id_fm>62</id_fm> <id_um></id_um> <str_nombre_ia>Paludismo</str_nombre_ia><txt_descripcion>Casos de paludismo diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. es una enfermedad parasitaria que se presenta en cuatro formas, todas con la misma sintomatología.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>395</int_codigo_ib>  <str_codigo_ib>Salud151</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>403</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Fármaco dependencia</str_nombre_ia><txt_descripcion>Casos de fármaco dependencia diagnosticados y reportados en un determinado año al sistema de registro de enfermedades de notificación obligatoria del MSP. Las investigaciones sobre la biologa de la adicción han ratificado que el uso prolongado de drogas c疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>405</int_codigo_ib>  <str_codigo_ib>Salud098</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>404</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Características de consumidores de droga en tratamiento</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>406</int_codigo_ib>  <str_codigo_ib>Salud026</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>405</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Edad de inicio en el consumo según droga</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>407</int_codigo_ib>  <str_codigo_ib>Salud083</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>406</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Consumo de drogas ilícitas en adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>408</int_codigo_ib>  <str_codigo_ib>Salud045</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>407</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Alumnos/as expuestos a humo de tabaco en el hogar</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>409</int_codigo_ib>  <str_codigo_ib>Salud013</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>408</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Promedio de días que en el mes fuman los jóvenes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>410</int_codigo_ib>  <str_codigo_ib>Salud174</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>409</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Edad a la primera relación sexual en adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>411</int_codigo_ib>  <str_codigo_ib>Salud078</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>410</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Exposición a la información sobre tabaco en la escuela</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>412</int_codigo_ib>  <str_codigo_ib>Salud096</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>411</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Diez principales causas de mortalidad en los adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>413</int_codigo_ib>  <str_codigo_ib>Salud069</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>412</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Edad de inicio del consumo de alcohol en adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>414</int_codigo_ib>  <str_codigo_ib>Salud081</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>413</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Edad de inicio del consumo de drogas ilicitas en adolescentes</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>415</int_codigo_ib>  <str_codigo_ib>Salud082</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>415</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tasa global de fecundidad deseada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>417</int_codigo_ib>  <str_codigo_ib>Salud196</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>416</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tasa global de fecundidad observada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>418</int_codigo_ib>  <str_codigo_ib>Salud197</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>417</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tasa general de fecundidad</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>419</int_codigo_ib>  <str_codigo_ib>Salud194</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>418</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Tasa de fecundidad no deseada</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>420</int_codigo_ib>  <str_codigo_ib>Mujer061</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>419</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Embarazos</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>421</int_codigo_ib>  <str_codigo_ib>Salud087</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>421</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Partos por cesárea</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>423</int_codigo_ib>  <str_codigo_ib>Salud156</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>423</id_ib> <id_fun>1</id_fun>  <id_fm></id_fm> <id_um></id_um> <str_nombre_ia>Muertes por causas maternas</str_nombre_ia><txt_descripcion>Muertes ocasionadas por complicaciones relacionadas directa o indirectamente con el embarazo, parto y puerperio. La defunción materna se define como la muerte de una mujer mientras está embarazada o dentro de los 42 días siguientes a la terminación del e疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>425</int_codigo_ib>  <str_codigo_ib>Salud127
+424</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>234</id_ib> <id_fun>1</id_fun>  <id_fm>147</id_fm> <id_um></id_um> <str_nombre_ia>Población económicamente activa (PEA)</str_nombre_ia><txt_descripcion>Son económicamente activas las personas en edad de trabajar (10 años y más) que: (i) trabajaron al menos una hora durante el período de referencia de la medición en tareas con o sin remuneración, incluyendo la ayuda a otros miembros del hogar en alguna actividad productiva o en un negocio o finca del hogar; (ii) si bien no trabajaron, tenían algún empleo o negocio del cual estuvieron ausentes por enfermedad, huelga, licencia, vacaciones u otras causas; y (iii) no comprendidas en los dos grupos anteriores, que estaban en disponibilidad de trabajar.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>235</int_codigo_ib>  <str_codigo_ib>Emple042</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>237</id_ib> <id_fun>1</id_fun>  <id_fm>154</id_fm> <id_um></id_um> <str_nombre_ia>Perceptores de ingresos laborales en el hogar</str_nombre_ia><txt_descripcion>Número promedio de personas de 10 años y más en cada hogar que perciben algún ingreso laboral. Se refiere a todos los ingresos salariales (ingresos del trabajo en relación de dependencia) e ingresos como patrono y cuentapropista (ingresos del trabajo independiente).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>238</int_codigo_ib>  <str_codigo_ib>Emple039</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>245</id_ib> <id_fun>1</id_fun>  <id_fm>152</id_fm> <id_um></id_um> <str_nombre_ia>PEA afiliada y/o cubierta por el seguro social</str_nombre_ia><txt_descripcion>Personas económicamente activas de 10 años y más afiliadas y/o cubiertas por los programas de seguridad social del país. El seguro social ecuatoriano es un derecho de todas las personas, naturales o extranjeras, que presten servicios en virtud de un contrato de trabajo o por nombramiento.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>246</int_codigo_ib>  <str_codigo_ib>Emple037</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>246</id_ib> <id_fun>1</id_fun>  <id_fm>153</id_fm> <id_um></id_um> <str_nombre_ia>PEA afiliada y/o cubierta por el seguro social campesino</str_nombre_ia><txt_descripcion>Personas económicamente activas de 10 años y más afiliadas o cubiertas por el programa Seguro Social Campesino (SSC). La seguridad campesina ha sido una de las más buscadas reivindicaciones del movimiento campesino e indígena del país. Este indicador es especialmente relevante para las zonas rurales.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>247</int_codigo_ib>  <str_codigo_ib>Emple038</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>963</id_ib> <id_fun>1</id_fun>  <id_fm>769</id_fm> <id_um></id_um> <str_nombre_ia>Trabajo infantil (5 - 14 años)</str_nombre_ia><txt_descripcion>Se define a los niños trabajadores como aquellos que trabajaron al menos una hora la semana pasada, realizaron alguna actividad dentro o fuera del hogar para ayudar al mantenimiento del mismo, o aquellos que no trabajaron la semana pasada pero tienen un trabajo al cual regresarán. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>994</int_codigo_ib>  <str_codigo_ib>Emple075</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>964</id_ib> <id_fun>1</id_fun>  <id_fm>769</id_fm> <id_um></id_um> <str_nombre_ia>Trabajo infantil (5 - 17 años)</str_nombre_ia><txt_descripcion>Se define a los niños trabajadores como aquellos que trabajaron al menos una hora la semana pasada, realizaron alguna actividad dentro o fuera del hogar para ayudar al mantenimiento del mismo, o aquellos que no trabajaron la semana pasada pero tienen un trabajo al cual regresarán. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>995</int_codigo_ib>  <str_codigo_ib>Emple076</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>965</id_ib> <id_fun>1</id_fun>  <id_fm>769</id_fm> <id_um></id_um> <str_nombre_ia>Trabajo infantil (15 - 17 años)</str_nombre_ia><txt_descripcion>Se define a los niños trabajadores como aquellos que trabajaron al menos una hora la semana pasada, realizaron alguna actividad dentro o fuera del hogar para ayudar al mantenimiento del mismo, o aquellos que no trabajaron la semana pasada pero tienen un trabajo al cual regresarán. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>996</int_codigo_ib>  <str_codigo_ib>Emple077</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>966</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y estudian (5 - 14 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 5 a 14 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>997</int_codigo_ib>  <str_codigo_ib>Emple078</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>967</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y estudian (5 -17 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 5 a 17 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>998</int_codigo_ib>  <str_codigo_ib>Emple079</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>968</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y estudian (15 - 17 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 15 a 17 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>999</int_codigo_ib>  <str_codigo_ib>Emple080</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>219</id_ib> <id_fun>1</id_fun>  <id_fm>165</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de desempleo</str_nombre_ia><txt_descripcion>Personas de 10 años y más que durante el período de referencia de la medición (la última semana) no tenían empleo y estaban disponibles para trabajar. Abarca tanto a (i) aquellos trabajadores/as que se quedaron sin empleo por despido o renuncia (cesantes), cuanto (ii) a quienes se incorporan por primera vez al mercado de trabajo (trabajadores nuevos). Se refiere solo a la población económicamente activa (PEA).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>220</int_codigo_ib>  <str_codigo_ib>Emple052</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>228</id_ib> <id_fun>1</id_fun>  <id_fm>176</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de empleo adecuado</str_nombre_ia><txt_descripcion>La población con ocupación plena está constituida por personas ocupadas de 10 años, con relación de dependencia, con trabajo estable y con aportes al seguro social que trabajan como mínimo la jornada legal, tienen ingresos superiores al salario unificado legal y no desean trabajar más (no realizan gestiones); o bien que trabajan menos de 40 horas, sus ingresos son superiores al salario unificado legal y no desean trabajar más horas.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>229</int_codigo_ib>  <str_codigo_ib>Emple059</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>969</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y no estudian (5 - 14 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 5 a 14 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1000</int_codigo_ib>  <str_codigo_ib>Emple081</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>970</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y no estudian (5 - 17 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 5 a 17 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1001</int_codigo_ib>  <str_codigo_ib>Emple082</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>971</id_ib> <id_fun>1</id_fun>  <id_fm>773</id_fm> <id_um></id_um> <str_nombre_ia>Trabajan y no estudian (15 - 17 años)</str_nombre_ia><txt_descripcion>Se trata de una tipología que combina la situación de trabajo y educación de los niños/as de 15 a 17 años de edad. Apunta a identificar a los niños que debido al trabajo no tienen acceso a la educación o lo hacen con dificultades. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1002</int_codigo_ib>  <str_codigo_ib>Emple083</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>448</id_ib> <id_fun>1</id_fun>  <id_fm>196</id_fm> <id_um></id_um> <str_nombre_ia>Casas, villas o departamentos</str_nombre_ia><txt_descripcion>Viviendas clasificadas como casas, villas o departamentos. Se refiere al tipo de construcción, a la calidad constructiva (durabilidad y funcionalidad); no hace alusión al estado físico de la vivienda. Agrupa a las construcciones con condiciones de habitación más favorables, en contraste con los demás tipos que, además de deficiencias constructivas y limitaciones funcionales, tienen altas probabilidades de carecer de ciertos servicios básicos.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>450</int_codigo_ib>  <str_codigo_ib>Vivie006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>487</id_ib> <id_fun>1</id_fun>  <id_fm>201</id_fm> <id_um></id_um> <str_nombre_ia>Medios de eliminación de excretas</str_nombre_ia><txt_descripcion>Viviendas conectadas a la red pública de alcantarillado o, que tienen pozo ciego, pozo séptico o letrina. Se refiere únicamente a las viviendas que cuentan con sistemas de recolección y evacuación de excrementos humanos y aguas servidas que son arrastrados por corrientes de agua (alcantarillado o pozos con o sin tratamiento); incluye letrinas.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>490</int_codigo_ib>  <str_codigo_ib>Vivie041</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>489</id_ib> <id_fun>1</id_fun>  <id_fm>203</id_fm> <id_um></id_um> <str_nombre_ia>Servicio telefónico convencional</str_nombre_ia><txt_descripcion>Hogares que disponen de servicio telefónico convencional. Es esencial para el desarrollo social y económico. Se trata de un servicio básico para los hogares; dada su funcionalidad múltiple y su desarrollo tecnológico dejó de será un servicio electivo o suntuario. En la actualidad es, además, la vía de acceso a otras formas de comunicación global (Internet, correo electrónico, etc.).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>492</int_codigo_ib>  <str_codigo_ib>Vivie040</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>490</id_ib> <id_fun>1</id_fun>  <id_fm>204</id_fm> <id_um></id_um> <str_nombre_ia>Medios de eliminación de basura</str_nombre_ia><txt_descripcion>Hogares cuyas viviendas cuentan con un servicio de recolección de basura privado o municipal. Se refiere a los carros recolectores</txt_descripcion> <str_formula> no incluye eliminación directa por parte de los residentes (en terrenos o por incineración). No toma en cuenta ni la frecuencia ni las características posteriores del servicio (botadero, incineración, relleno sanitario, etc.).</str_formula> <int_codigo_ib>493</int_codigo_ib>  <str_codigo_ib>Vivie012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>737</id_ib> <id_fun>1</id_fun>  <id_fm>219</id_fm> <id_um></id_um> <str_nombre_ia>Agua segura</str_nombre_ia><txt_descripcion>Hogares que obtienen el agua para su consumo de fuentes por tubería o carro repartidor. Los medios pueden o no incluir procesos de tratamiento del agua. Incluye a los hogares que se abastecen de la red pública, carro repartidor (o triciclo), pila o llave pública u otra fuente por tubería.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>740</int_codigo_ib>  <str_codigo_ib>Salud011</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>861</id_ib> <id_fun>1</id_fun>  <id_fm>715</id_fm> <id_um></id_um> <str_nombre_ia>Hogares con teléfono celular</str_nombre_ia><txt_descripcion>Hogares que disponen de teléfono(s) celular(es). Así como el servicio telefónico convencional es esencial para el desarrollo social y económico de todo país, el servicio de telefonía celular se ha constituido también en una herramienta para el desempeño diario de las personas. Además, es una vía de acceso a otras formas de comunicación global (internet, correo electrónico, etc.).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>870</int_codigo_ib>  <str_codigo_ib>Vivie070</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>865</id_ib> <id_fun>1</id_fun>  <id_fm>719</id_fm> <id_um></id_um> <str_nombre_ia>Sistemas de eliminación de excretas</str_nombre_ia><txt_descripcion>Viviendas conectadas a la red pública de alcantarillado o, que tienen pozo ciego o pozo séptico. Se refiere únicamente a las viviendas que cuentan con sistemas de recolección y evacuación de excrementos humanos y aguas servidas que son arrastrados por corrientes de agua (alcantarillado o pozos con o sin tratamiento); excluye a las viviendas que disponen de otros medios sanitarios para la eliminación de excretas como las letrinas.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>874</int_codigo_ib>  <str_codigo_ib>Vivie074</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>122</id_ib> <id_fun>1</id_fun>  <id_fm>256</id_fm> <id_um></id_um> <str_nombre_ia>Distribución del consumo - Coeficiente de Gini</str_nombre_ia><txt_descripcion>Es una medida estadística de la desigualdad en la distribución del consumo per cápita de los hogares, que varía entre 0 y 1. Muestra mayor desigualdad mientras se aproxima más a 1 y corresponde a 0 en el caso hipotético de una distribución totalmente equitativa. La desigualdad en la distribución de un recurso cualquiera (ingreso, tierra, capital, riqueza, etc.) implica que diferentes hogares (o individuos, grupos sociales, etc) tienen diferentes cantidades de ese recurso.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>122</int_codigo_ib>  <str_codigo_ib>Desig006</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>120</id_ib> <id_fun>1</id_fun>  <id_fm>254</id_fm> <id_um></id_um> <str_nombre_ia>Distribución del ingreso - Coeficiente de Gini</str_nombre_ia><txt_descripcion>Es una medida estadística de la desigualdad en la distribución del ingreso de los perceptores individuales que varía entre 0 y 1. Muestra mayor desigualdad mientras se aproxima más a 1, y corresponde a 0 en el caso hipotético de una distribución totalmente equitativa. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>120</int_codigo_ib>  <str_codigo_ib>Desig009</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>134</id_ib> <id_fun>1</id_fun>  <id_fm>261</id_fm> <id_um></id_um> <str_nombre_ia>Incidencia de la pobreza de consumo</str_nombre_ia><txt_descripcion>Una persona es “pobre” por consumo cuando pertenece a un hogar cuyo consumo per cápita, en un período determinado, es inferior al valor de la línea de pobreza. La línea de pobreza es el equivalente monetario del costo de una canasta básica de bienes y servicios por persona por período de tiempo (generalmente, quincena o mes).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>134</int_codigo_ib>  <str_codigo_ib>Desig014</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>485</id_ib> <id_fun>1</id_fun>  <id_fm>199</id_fm> <id_um></id_um> <str_nombre_ia>Agua entubada por red pública</str_nombre_ia><txt_descripcion>Viviendas abastecidas por agua entubada por red pública a través de tubería. Se refiere tanto al sistema (tubería) como al medio de abastecimiento (red pública). La red pública se refiere a los sistemas de captación y conducción del agua hacia las viviendas; pueden o no incluir procesos de tratamiento del agua.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>487</int_codigo_ib>  <str_codigo_ib>Vivie002</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>135</id_ib> <id_fun>1</id_fun>  <id_fm>262</id_fm> <id_um></id_um> <str_nombre_ia>Incidencia de la extrema pobreza de consumo</str_nombre_ia><txt_descripcion>Una persona es “extremo pobre” por consumo cuando pertenece a un hogar cuyo consumo per cápita, en un período determinado, es inferior a la línea de indigencia o extrema pobreza. La línea de indigencia es el equivalente monetario del costo de una canasta de alimentos que permita satisfacer los requerimientos nutricionales de un hogar; la norma frecuentemente utilizada es de 2.141/ kilocalorías /persona/ día.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>135</int_codigo_ib>  <str_codigo_ib>Desig012</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>996</id_ib> <id_fun>1</id_fun>  <id_fm>318</id_fm> <id_um></id_um> <str_nombre_ia>Pensión asistencial: Personas de tercera edad y personas con discapacidad</str_nombre_ia><txt_descripcion>Son transferencias de recursos a los beneficiarios ( personas de tercera edad y personas con discapacidad) a través de la red bancaria nacional. El BDH, es la ayuda monetaria, que el gobierno nacional realiza a los hogares y personas vulnerables todos los meses.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1028</int_codigo_ib>  <str_codigo_ib>Accio039</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>313</id_ib> <id_fun>1</id_fun>  <id_fm>776</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de dependencia</str_nombre_ia><txt_descripcion>Es la relación entre el número de personas en edades “inactivas” o “dependientes” y el número de personas en edad “económicamente productiva”. En este caso se ha considerado población dependiente a las personas menores de 15 años y a los mayores de 64 años, y población no dependiente a las personas de 15 a 64 años.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>314</int_codigo_ib>  <str_codigo_ib>Pobla048</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>316</id_ib> <id_fun>1</id_fun>  <id_fm>337</id_fm> <id_um></id_um> <str_nombre_ia>Migración</str_nombre_ia><txt_descripcion>Personas de 10 años de edad y más que migraron en el transcurso de los 10 años anteriores a la medición. Se define como migración a los cambios de residencia habitual entre diferentes jurisdicciones administrativas; es decir, al movimiento de personas a través de una frontera específica (nacional, regional, provincial, etc.) para adoptar una nueva residencia. No incluye la migración temporal (estacional).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>317</int_codigo_ib>  <str_codigo_ib>Pobla030</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>319</id_ib> <id_fun>1</id_fun>  <id_fm>778</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de matrimonios</str_nombre_ia><txt_descripcion>Se refiere solo a los matrimonios inscritos en el Registro Civil. Las uniones de hecho, que en nuestro país tienen el mismo estatus legal que los matrimonios y que tienen fuerte incidencia en la Costa rural y la Amazonía no están registradas dentro de este conteo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>320</int_codigo_ib>  <str_codigo_ib>Pobla050</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>973</id_ib> <id_fun>1</id_fun>  <id_fm>768</id_fm> <id_um></id_um> <str_nombre_ia>Tipología de la vivienda</str_nombre_ia><txt_descripcion>Es una caracterización de la vivienda conceptualizada por los materiales predominantes y estado del piso, techo y paredes, y se define bajo los siguientes criterios: viviendas Aceptables, viviendas Recuperables o Déficit Habitacional Cualitativo, viviendas Irrecuperables o déficit habitacional cuantitativo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1004</int_codigo_ib>  <str_codigo_ib>Vivie076</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>976</id_ib> <id_fun>1</id_fun>  <id_fm>772</id_fm> <id_um></id_um> <str_nombre_ia>Salario básico unificado</str_nombre_ia><txt_descripcion>Se refiere al estipendio mínimo mensual que debe pagar el empleador al trabajador en general en virtud de un contrato de trabajo. A partir de la década de 1970 se crearon varias remuneraciones, bonificaciones y compensaciones que, según la ley, deben pagarse adicionalmente al salario básico mensual. Corresponde al SBU en dólares corrientes, sumado al promedio anual de la décimo tercera remuneración y al promedio anual de la décimo cuarta remuneración.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1008</int_codigo_ib>  <str_codigo_ib>Econo032</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>977</id_ib> <id_fun>1</id_fun>  <id_fm>795</id_fm> <id_um></id_um> <str_nombre_ia>Canasta básica familiar</str_nombre_ia><txt_descripcion>Es una canasta analítica y se refiere a un hogar tipo de 4 miembros, con 1,60 perceptores que ganan exclusivamente la Remuneración básica unificada, está constituida por alrededor de 75 artículos de los 299 que conforman la Canasta de artículos (Bienes y servicios), del Índice de Precios al Cosumidor (IPC).</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1009</int_codigo_ib>  <str_codigo_ib>Econo033</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>975</id_ib> <id_fun>1</id_fun>  <id_fm>767</id_fm> <id_um></id_um> <str_nombre_ia>Tasa de subempleo</str_nombre_ia><txt_descripcion>Se presentan tres tasas de subempleo: tasa de subempleo bruta, tasa de subempleo visible o subempleo por insuficiencia de horas, tasa de otras formas de subempleo. refleja la calidad de los puestos de trabajo generados en una economía. La medición de la subutilización de la fuerza laboral se ha asociado principalmente con el desempleo, ya sea abierto, oculto, estacional, etc. y, por tanto, ha desestimado otro tipo de subutilización, como el subempleo, de importancia en los países en desarrollo.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>1007</int_codigo_ib>  <str_codigo_ib>Emple085</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>1001</id_ib> <id_fun>6</id_fun>  <id_fm>11</id_fm> <id_um>1</id_um> <str_nombre_ia>Tasa neta de matrícula bachillerato</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>772</int_codigo_ib>  <str_codigo_ib>Educa102</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>1002</id_ib> <id_fun>6</id_fun>  <id_fm>11</id_fm> <id_um>1</id_um> <str_nombre_ia>Tasa neta de matrícula educacion superior</str_nombre_ia><txt_descripcion></txt_descripcion> <str_formula></str_formula> <int_codigo_ib>772</int_codigo_ib>  <str_codigo_ib>Educa102</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>778</id_ib> <id_fun>1</id_fun>  <id_fm>271</id_fm> <id_um></id_um> <str_nombre_ia>Brecha de la  extrema pobreza de ingresos</str_nombre_ia><txt_descripcion>Diferencia agregada entre el ingreso de las personas (u hogares) pobres y el valor de una canasta básica de alimentos (o línea de extrema pobreza). Se define como pobres extremos  a aquellas personas que pertenecen a hogares cuyo ingreso per cápita, en 疤Ỵ疥</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>783</int_codigo_ib>  <str_codigo_ib>Desig001</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>955</id_ib> <id_fun>1</id_fun>  <id_fm>268</id_fm> <id_um></id_um> <str_nombre_ia>Incidencia de la pobreza de ingresos </str_nombre_ia><txt_descripcion>Una persona es “pobre” por ingresos cuando pertenece a un hogar cuyo ingreso per cápita, en un período determinado, es inferior al valor de la línea de pobreza. La línea de pobreza es el equivalente monetario del costo de una canasta básica de bienes y servicios. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>985</int_codigo_ib>  <str_codigo_ib>Agend_019</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>198</id_ib> <id_fun>1</id_fun>  <id_fm>6</id_fm> <id_um></id_um> <str_nombre_ia>Bachillerato completo</str_nombre_ia><txt_descripcion>Personas de 19 años y más que completó la enseñanza secundaria. Comprende lo que hoy se denomina como básico superior y bachillerato. Se refiere sólo a aquellas personas que aprobaron los seis años establecidos para el nivel secundario, no incluye a aquellas que han asistido a programas equivalentes de educación compensatoria o especial. No implica la posesión de título de bachiller. No existe dato para el año 2002 porque la encuesta es representativa únicamente a nivel urbano, por lo tanto, no es comparable con los datos que se presentan.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>199</int_codigo_ib>  <str_codigo_ib>Educa069</str_codigo_ib> 
+</registro>
+<registro>
+<id_ib>170</id_ib> <id_fun>1</id_fun>  <id_fm>342</id_fm> <id_um></id_um> <str_nombre_ia>Inflación</str_nombre_ia><txt_descripcion>Mide el porcentaje de variación del nivel de precios en la economía. Los precios son la tasa a la que se puede intercambiar dinero por bienes, es decir, si por ejemplo, un determinado bien tiene un precio de 100 dólares, se necesitarán intercambiar 100 unidades monetarias para obtener una unidad de ese bien; pero si el precio del bien aumenta, con 100 unidades monetarias ya no se puede obtener una unidad de ese bien. Para la medición del indicador se trabaja con el índice de Precios al Consumidor -IPC-.</txt_descripcion> <str_formula></str_formula> <int_codigo_ib>170</int_codigo_ib>  <str_codigo_ib>Econo015</str_codigo_ib> 
+</registro>
+</registros>
